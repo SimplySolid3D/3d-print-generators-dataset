@@ -1,6 +1,6 @@
 # No-CAD 3D print generators: open dataset
 
-448 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+449 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
@@ -15,10 +15,10 @@ Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.co
 | --- | ---: | ---: |
 | Free | 344 | 77% |
 | Freemium | 79 | 18% |
-| Paid | 25 | 6% |
+| Paid | 26 | 6% |
 | Runs in a browser | 265 | 59% |
-| Exports STL | 385 | 86% |
-| Exports 3MF | 290 | 65% |
+| Exports STL | 386 | 86% |
+| Exports 3MF | 291 | 65% |
 | Multicolor | 147 | 33% |
 | No account needed | 200 | 45% |
 | Open source | 70 | 16% |
@@ -42,7 +42,7 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 19 |
 | [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 71 |
 | [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 48 |
-| [Customizers](https://skipthecad.com/category/customizers/) | 14 |
+| [Customizers](https://skipthecad.com/category/customizers/) | 15 |
 | [Gifts](https://skipthecad.com/category/gifts/) | 33 |
 
 Counted by primary category; tools can also appear in up to three other categories (`secondaryCategories`).

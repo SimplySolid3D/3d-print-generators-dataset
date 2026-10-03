@@ -7,7 +7,7 @@
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
   "dateModified": "2026-10-02",
-  "count": 448,
+  "count": 449,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -7532,6 +7532,34 @@
       "accountRequired": true,
       "openSource": true,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "piled-3d-cad-multi-tool",
+      "name": "PILED 3D CAD Multi Tool",
+      "url": "https://store.steampowered.com/app/3565810/PILED_3D_CAD_MULTI_TOOL/",
+      "page": "https://skipthecad.com/generators/piled-3d-cad-multi-tool/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "storage",
+        "mechanical",
+        "signs-text"
+      ],
+      "pricing": "paid",
+      "priceNote": "One-time purchase on Steam, $34.99 (Windows and macOS)",
+      "platform": [
+        "windows",
+        "mac"
+      ],
+      "outputs": [
+        "STEP",
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-02",
       "ownedBySite": false
     },
     {
