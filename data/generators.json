@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-02",
-  "count": 449,
+  "dateModified": "2026-10-03",
+  "count": 450,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -3961,6 +3961,28 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "img2stl",
+      "name": "Img2STL",
+      "url": "https://img2stl.art/",
+      "page": "https://skipthecad.com/generators/img2stl/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "60 free credits on signup (one model); a model costs 60 to 90 credits, packs from $4.99 for 500 credits",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-03",
       "ownedBySite": false
     },
     {
