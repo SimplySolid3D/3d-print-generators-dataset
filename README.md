@@ -7,7 +7,7 @@ Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.co
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-10-03
+- **Last check of any listing:** 2026-10-04
 
 ## At a glance
 

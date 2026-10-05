@@ -6,7 +6,7 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-03",
+  "dateModified": "2026-10-04",
   "count": 450,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
@@ -3242,9 +3242,12 @@
       "category": "mechanical",
       "secondaryCategories": [],
       "pricing": "paid",
-      "priceNote": "Designing and simulating are free; every export needs a pass: 5 EUR for 7 days, 10 EUR for 30 days or 30 EUR for a year",
+      "priceNote": "Designing and simulating are free; exports need a pass (5 EUR for 7 days, 10 EUR for 30 days, 30 EUR for a year) or the desktop app's lifetime license (45 EUR)",
       "platform": [
-        "web"
+        "web",
+        "windows",
+        "mac",
+        "linux"
       ],
       "outputs": [
         "STL",
@@ -3254,7 +3257,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-02",
+      "verifiedOn": "2026-10-04",
       "ownedBySite": false
     },
     {
