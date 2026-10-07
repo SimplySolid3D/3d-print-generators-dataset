@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-05",
-  "count": 453,
+  "dateModified": "2026-10-07",
+  "count": 485,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -224,6 +224,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "3d-makerbench",
+      "name": "3D MakerBench",
+      "url": "https://3dmakerbench.com/",
+      "page": "https://skipthecad.com/generators/3d-makerbench/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "cookie-cutters",
+        "lithophanes",
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, no download limit",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "3d-map-generator",
       "name": "3D Map Generator",
       "url": "https://3d-map-generator.com/",
@@ -339,6 +364,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dframes",
+      "name": "3DFrames",
+      "url": "https://ngoline.github.io/3DFrames/",
+      "page": "https://skipthecad.com/generators/3dframes/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free and open source (MIT), no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -619,6 +668,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "antler-forge",
+      "name": "Antler Forge",
+      "url": "https://emorykrall.github.io/antler-forge/",
+      "page": "https://skipthecad.com/generators/antler-forge/",
+      "category": "gifts",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, open source, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -1295,6 +1365,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "chip-tray-generator",
+      "name": "Chip Tray Generator",
+      "url": "https://lopo.github.io/ChipTrayGenerator/",
+      "page": "https://skipthecad.com/generators/chip-tray-generator/",
+      "category": "storage",
+      "secondaryCategories": [
+        "boxes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, open source, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "christmas-tree-family-names",
       "name": "Customizable Christmas Tree Family Names",
       "url": "https://makerworld.com/en/models/2049449-customizable-christmass-tree-family-names",
@@ -1871,6 +1965,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "custom-name-pen-holder",
+      "name": "Custom Name Pen Holder (GreedyDog)",
+      "url": "https://makerworld.com/en/models/3282467-custom-name-pen-holder-personalized-desk-organizer",
+      "page": "https://skipthecad.com/generators/custom-name-pen-holder/",
+      "category": "storage",
+      "secondaryCategories": [
+        "gifts",
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free; MakerWorld login needed",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "custom-polaroid-magnet-generator",
       "name": "Custom Polaroid Magnet Generator",
       "url": "https://makerworld.com/en/models/576980-custom-polaroid-magnet-generator",
@@ -1914,6 +2033,28 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "custom-spacer-standoff-generator",
+      "name": "Custom Spacer / Standoff Generator (nassworks)",
+      "url": "https://makerworld.com/en/models/3238513-custom-spacer-standoff-generator",
+      "page": "https://skipthecad.com/generators/custom-spacer-standoff-generator/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free; MakerWorld login needed",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -2027,6 +2168,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "customizable-keychain-brick",
+      "name": "Customizable Keychain Brick (Canale)",
+      "url": "https://makerworld.com/en/models/3206423-customizable-keychain-brick",
+      "page": "https://skipthecad.com/generators/customizable-keychain-brick/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free; MakerWorld login needed",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -3192,6 +3357,32 @@
       "ownedBySite": false
     },
     {
+      "slug": "framecraft",
+      "name": "FrameCraft",
+      "url": "https://naxhq.github.io/framecraft/",
+      "page": "https://skipthecad.com/generators/framecraft/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, open source, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "OBJ",
+        "STEP"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "garden-plant-label-sign",
       "name": "Customizable Garden Plant Label Sign",
       "url": "https://makerworld.com/en/models/881635-customizable-garden-plant-label-sign",
@@ -3357,6 +3548,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "geofilament",
+      "name": "GeoFilament",
+      "url": "https://geofilament.mochi.is/",
+      "page": "https://skipthecad.com/generators/geofilament/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "Free preview; one-time 3 EUR per model up to 25 cm, 5 EUR up to 50 cm, 8 EUR above, via Stripe",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "geogebra-3d-calculator",
       "name": "GeoGebra 3D Calculator",
       "url": "https://www.geogebra.org/3d",
@@ -3398,6 +3614,30 @@
       "accountRequired": true,
       "openSource": true,
       "verifiedOn": "2026-09-28",
+      "ownedBySite": false
+    },
+    {
+      "slug": "gpx2stl",
+      "name": "gpx2stl",
+      "url": "https://grabtharshammer.github.io/gpx2stl/",
+      "page": "https://skipthecad.com/generators/gpx2stl/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -3620,6 +3860,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "gridfinitystudio-com",
+      "name": "GridfinityStudio (gridfinitystudio.com)",
+      "url": "https://gridfinitystudio.com/",
+      "page": "https://skipthecad.com/generators/gridfinitystudio-com/",
+      "category": "storage",
+      "secondaryCategories": [
+        "boxes"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free to design and export single STLs (free account); Maker License $89 one-time, Workshop License $229 one-time",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "gridflock-generator",
       "name": "GridFlock Generator",
       "url": "https://gridflock.yawk.at/",
@@ -3825,6 +4088,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "honeycomb-workshop",
+      "name": "Honeycomb Workshop",
+      "url": "https://jesse3647.github.io/hexagon-display/",
+      "page": "https://skipthecad.com/generators/honeycomb-workshop/",
+      "category": "storage",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free and open source (MIT), no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "house-office-number-plate-generator",
       "name": "House / Office Number Plate Generator",
       "url": "https://makerworld.com/en/models/1284229-house-office-number-plate-generator",
@@ -3920,6 +4207,102 @@
       "ownedBySite": false
     },
     {
+      "slug": "ilove3d",
+      "name": "ilove3d",
+      "url": "https://ilove3d.app/en",
+      "page": "https://skipthecad.com/generators/ilove3d/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "lithophanes",
+        "storage",
+        "vases-lamps"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, no paid tier",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ilove3d-3d-text",
+      "name": "3D Text (ilove3d)",
+      "url": "https://ilove3d.app/en/tools/text-to-3d",
+      "page": "https://skipthecad.com/generators/ilove3d-3d-text/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, runs in the browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ilove3d-gridfinity-bins",
+      "name": "Gridfinity Bins (ilove3d)",
+      "url": "https://ilove3d.app/en/tools/gridfinity",
+      "page": "https://skipthecad.com/generators/ilove3d-gridfinity-bins/",
+      "category": "storage",
+      "secondaryCategories": [
+        "boxes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, runs in the browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ilove3d-hose-adapter",
+      "name": "Hose Adapter (ilove3d)",
+      "url": "https://ilove3d.app/en/tools/hose-adapter",
+      "page": "https://skipthecad.com/generators/ilove3d-hose-adapter/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account, runs in the browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "ilove3d-name-keychain",
       "name": "ilove3d Name Keychain",
       "url": "https://ilove3d.app/",
@@ -3938,6 +4321,29 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ilove3d-star-map",
+      "name": "Star Map (ilove3d)",
+      "url": "https://ilove3d.app/en/tools/star-map",
+      "page": "https://skipthecad.com/generators/ilove3d-star-map/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, runs in the browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -5131,6 +5537,97 @@
       "ownedBySite": false
     },
     {
+      "slug": "makerbench-cookie-cutter-generator",
+      "name": "Cookie Cutter Generator (3D MakerBench)",
+      "url": "https://3dmakerbench.com/cookie-cutter-generator",
+      "page": "https://skipthecad.com/generators/makerbench-cookie-cutter-generator/",
+      "category": "cookie-cutters",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no sign-up, runs on your device",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-07",
+      "ownedBySite": false
+    },
+    {
+      "slug": "makerbench-flip-text-generator",
+      "name": "Flip Text Generator (3D MakerBench)",
+      "url": "https://3dmakerbench.com/flip-text-generator",
+      "page": "https://skipthecad.com/generators/makerbench-flip-text-generator/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no sign-up, runs on your device",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-07",
+      "ownedBySite": false
+    },
+    {
+      "slug": "makerbench-gridfinity-bin-generator",
+      "name": "Gridfinity Bin Generator (3D MakerBench)",
+      "url": "https://3dmakerbench.com/gridfinity-bin-generator",
+      "page": "https://skipthecad.com/generators/makerbench-gridfinity-bin-generator/",
+      "category": "storage",
+      "secondaryCategories": [
+        "boxes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no sign-up, runs on your device",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-07",
+      "ownedBySite": false
+    },
+    {
+      "slug": "makerbench-lithophane-maker",
+      "name": "Lithophane Maker (3D MakerBench)",
+      "url": "https://3dmakerbench.com/lithophane-maker",
+      "page": "https://skipthecad.com/generators/makerbench-lithophane-maker/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "vases-lamps",
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no sign-up, runs on your device",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-07",
+      "ownedBySite": false
+    },
+    {
       "slug": "makerlab-christmas-ornament-maker",
       "name": "Christmas Ornament Maker (MakerLab)",
       "url": "https://makerworld.com/en/makerlab/christmasOrnamentMaker",
@@ -5241,6 +5738,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "makerlab-folding-box-generator",
+      "name": "Folding Box Generator (MakerLab)",
+      "url": "https://makerworld.com/en/makerlab/community/fold-up-box-generator",
+      "page": "https://skipthecad.com/generators/makerlab-folding-box-generator/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free; MakerWorld login needed",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -5355,6 +5876,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "makerlab-lithophane-round-fan",
+      "name": "Lithophane Round Fan (MakerLab)",
+      "url": "https://makerworld.com/en/makerlab/community/fugui-tuanshan-lithophane-maker-paid",
+      "page": "https://skipthecad.com/generators/makerlab-lithophane-round-fan/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free base app; one-time Pro Features unlock, $9.99 list price, $8.88 during a discount that runs to early November 2026",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -6956,6 +7498,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "parametric-business-card-nfc",
+      "name": "Customizable Parametric Business Card (SnaKKo)",
+      "url": "https://makerworld.com/en/models/3291263-customizable-parametric-business-card-nfc-svg",
+      "page": "https://skipthecad.com/generators/parametric-business-card-nfc/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "codes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free; MakerWorld login needed",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "parametric-fidget-ring-maker",
       "name": "Custom Parametric Fidget Ring Maker",
       "url": "https://makerworld.com/en/models/3243553-custom-parametric-fidget-ring-maker",
@@ -7313,6 +7879,31 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "partforge",
+      "name": "PartForge",
+      "url": "https://www.partforge.ai/",
+      "page": "https://skipthecad.com/generators/partforge/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "ai-3d"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free plan with some weekly AI usage; Starter $20/month or $200/year, Pro $100/month or $1,000/year; or bring your own API key",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "STEP"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -8566,6 +9157,34 @@
       "ownedBySite": false
     },
     {
+      "slug": "s0lve-qr-code-3d-print-studio",
+      "name": "s0lve.it QR Code & 3D Print Studio",
+      "url": "https://www.s0lve.it/tools/qrcode.html",
+      "page": "https://skipthecad.com/generators/s0lve-qr-code-3d-print-studio/",
+      "category": "codes",
+      "secondaryCategories": [
+        "signs-text",
+        "keychains"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; optional printed plaques by quote from VärvX OÜ (Estonia)",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "OBJ",
+        "SVG",
+        "PNG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "sculptok",
       "name": "SculptOK",
       "url": "https://www.sculptok.com/",
@@ -8942,6 +9561,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "spoolstamp",
+      "name": "Spoolstamp",
+      "url": "https://spoolstamp.bourhan.org/",
+      "page": "https://skipthecad.com/generators/spoolstamp/",
+      "category": "storage",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, open source, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "square-tube-end-cap-generator",
       "name": "Custom End Cap Generator for Square/Rectangle Tube",
       "url": "https://makerworld.com/en/models/2403308-custom-end-cap-generator-for-square-rectangle-tube",
@@ -9102,6 +9744,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "stl-text",
+      "name": "STL Text",
+      "url": "https://stltext.com/",
+      "page": "https://skipthecad.com/generators/stl-text/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, unlimited STL downloads",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "stlgears",
       "name": "STLGears",
       "url": "https://stlgears.com/",
@@ -9147,6 +9812,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "stone-panel-2",
+      "name": "STONE PANEL 2.0 (AV_Creator)",
+      "url": "https://cults3d.com/en/3d-model/various/stone-panel-2-0-custom-stone-relief-stl-generator",
+      "page": "https://skipthecad.com/generators/stone-panel-2/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "paid",
+      "priceNote": "EUR 4.49 one-time on Cults3D; account needed to buy and download",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
       "slug": "svg-2-stl",
       "name": "SVG 2 STL",
       "url": "https://svg2stl.com/",
@@ -9167,6 +9855,31 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "svg-badge-generator",
+      "name": "Badge Generator (SVG to 3D)",
+      "url": "https://yinbaozong.github.io/Badge-generator/",
+      "page": "https://skipthecad.com/generators/svg-badge-generator/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "keychains",
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, open source, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
@@ -10401,6 +11114,51 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "wifi-qr-stand",
+      "name": "WiFi QR Stand",
+      "url": "https://niek.github.io/wifi-stand/",
+      "page": "https://skipthecad.com/generators/wifi-qr-stand/",
+      "category": "codes",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
+      "slug": "word-tile-set-generator",
+      "name": "Word Tile Set Generator (Filip Chalupa)",
+      "url": "https://filipchalupa.cz/scrabble-3d-generator/",
+      "page": "https://skipthecad.com/generators/word-tile-set-generator/",
+      "category": "puzzles-games",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, open source, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-06",
       "ownedBySite": false
     },
     {
