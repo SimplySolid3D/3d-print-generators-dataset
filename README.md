@@ -1,26 +1,26 @@
 # No-CAD 3D print generators: open dataset
 
-485 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+486 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-10-07
+- **Last check of any listing:** 2026-10-08
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 373 | 77% |
+| Free | 374 | 77% |
 | Freemium | 84 | 17% |
 | Paid | 28 | 6% |
-| Runs in a browser | 295 | 61% |
-| Exports STL | 416 | 86% |
-| Exports 3MF | 311 | 64% |
-| Multicolor | 164 | 34% |
-| No account needed | 222 | 46% |
+| Runs in a browser | 296 | 61% |
+| Exports STL | 417 | 86% |
+| Exports 3MF | 312 | 64% |
+| Multicolor | 165 | 34% |
+| No account needed | 223 | 46% |
 | Open source | 77 | 16% |
 
 More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/).
@@ -35,7 +35,7 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [Signs & Text](https://skipthecad.com/category/signs-text/) | 49 |
 | [Keychains](https://skipthecad.com/category/keychains/) | 21 |
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 17 |
-| [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 30 |
+| [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 31 |
 | [AI to 3D](https://skipthecad.com/category/ai-3d/) | 39 |
 | [Image to Relief](https://skipthecad.com/category/image-relief/) | 28 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 15 |

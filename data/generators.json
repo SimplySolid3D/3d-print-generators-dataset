@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-07",
-  "count": 485,
+  "dateModified": "2026-10-08",
+  "count": 486,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -8484,6 +8484,34 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-28",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printed-canyon",
+      "name": "Printed Canyon",
+      "url": "https://www.printedcanyon.com/",
+      "page": "https://skipthecad.com/generators/printed-canyon/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Pay what you want, from $0; no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB",
+        "PNG",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
       "ownedBySite": false
     },
     {
