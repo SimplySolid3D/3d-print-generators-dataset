@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-08",
-  "count": 486,
+  "dateModified": "2026-10-09",
+  "count": 497,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -5431,7 +5431,7 @@
         "mechanical"
       ],
       "pricing": "freemium",
-      "priceNote": "Free to customize and download within a daily job limit. The site is funded through Ko-fi and Patreon, and at least one design page says extra stylized versions are for Patreon members; Patreon prices were not visible.",
+      "priceNote": "Free to customize and download today, within a daily job limit; the maker plans 3 free customizations, then 5 more for $5, with no subscription (announced Oct 2026). The whole catalog is open to everyone.",
       "platform": [
         "web"
       ],
@@ -5442,7 +5442,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-09",
       "ownedBySite": false
     },
     {
@@ -5671,8 +5671,8 @@
     },
     {
       "slug": "makerlab-clicker-generator",
-      "name": "Clicker Generator (MakerLab)",
-      "url": "https://makerworld.com/en/makerlab/community/clicker-generator",
+      "name": "Clicker Generator (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/Clicker-Generator/",
       "page": "https://skipthecad.com/generators/makerlab-clicker-generator/",
       "category": "keychains",
       "secondaryCategories": [
@@ -5689,9 +5689,9 @@
         "3MF"
       ],
       "multicolor": true,
-      "accountRequired": true,
+      "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-08",
       "ownedBySite": false
     },
     {
@@ -5742,16 +5742,17 @@
     },
     {
       "slug": "makerlab-folding-box-generator",
-      "name": "Folding Box Generator (MakerLab)",
-      "url": "https://makerworld.com/en/makerlab/community/fold-up-box-generator",
+      "name": "Fold-Up Box Generator (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/foldbox/",
       "page": "https://skipthecad.com/generators/makerlab-folding-box-generator/",
       "category": "boxes",
       "secondaryCategories": [
         "gifts"
       ],
       "pricing": "free",
-      "priceNote": "Free; MakerWorld login needed",
+      "priceNote": "Free for personal use; the web version needs no account; selling prints needs a commercial license",
       "platform": [
+        "web",
         "makerworld"
       ],
       "outputs": [
@@ -5759,9 +5760,9 @@
         "SVG"
       ],
       "multicolor": false,
-      "accountRequired": true,
+      "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-06",
+      "verifiedOn": "2026-10-08",
       "ownedBySite": false
     },
     {
@@ -9608,7 +9609,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-10-06",
+      "verifiedOn": "2026-10-08",
       "ownedBySite": false
     },
     {
@@ -11099,6 +11100,255 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-edge-mount-dock",
+      "name": "Customizable Edge Mount Dock (Vostok Labs)",
+      "url": "https://makerworld.com/en/models/1684531-customizable-edge-mount-dock-for-any-device",
+      "page": "https://skipthecad.com/generators/vostok-edge-mount-dock/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free with a MakerWorld login; selling prints needs a commercial license",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-fridge-magnet-fidget-slider",
+      "name": "Fridge Magnet & Fidget Slider (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/magnet/",
+      "page": "https://skipthecad.com/generators/vostok-fridge-magnet-fidget-slider/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "puzzles-games"
+      ],
+      "pricing": "free",
+      "priceNote": "Free for personal use, no account; selling prints needs a commercial license",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-headphone-hook",
+      "name": "Parametric Headphone Hook (Vostok Labs)",
+      "url": "https://makerworld.com/en/models/2483947-parametric-headphone-hook-industrial-style",
+      "page": "https://skipthecad.com/generators/vostok-headphone-hook/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free with a MakerWorld login; selling prints needs a commercial license",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-house-office-number-generator",
+      "name": "House & Office Number Generator (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/house-number/",
+      "page": "https://skipthecad.com/generators/vostok-house-office-number-generator/",
+      "category": "signs-text",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free for personal use, no account; selling prints needs a commercial license",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-keychain-carabiner-set",
+      "name": "Keychain Carabiner Set (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/keychain-carabiner/",
+      "page": "https://skipthecad.com/generators/vostok-keychain-carabiner-set/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "mechanical"
+      ],
+      "pricing": "free",
+      "priceNote": "Free for personal use, no account; selling prints needs a commercial license",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-large-print-in-place-box",
+      "name": "Large Customizable Print-in-Place Box (Vostok Labs)",
+      "url": "https://makerworld.com/en/models/2300059-large-customizable-print-in-place-box-no-hardware",
+      "page": "https://skipthecad.com/generators/vostok-large-print-in-place-box/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a MakerWorld login; selling prints needs a commercial license",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-name-keychain-generator",
+      "name": "Name Keychain Generator (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/name-keychain/",
+      "page": "https://skipthecad.com/generators/vostok-name-keychain-generator/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free for personal use, no account; selling prints needs a commercial license",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-pen-topper-generator",
+      "name": "Pen Topper Generator (Vostok Labs)",
+      "url": "https://vostoklabs.github.io/pen-topper/",
+      "page": "https://skipthecad.com/generators/vostok-pen-topper-generator/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free for personal use, no account; selling prints needs a commercial license",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-power-strip-holder",
+      "name": "Screw-On Power Strip Holder (Vostok Labs)",
+      "url": "https://makerworld.com/en/models/1732918-customizable-screw-on-power-strip-holder",
+      "page": "https://skipthecad.com/generators/vostok-power-strip-holder/",
+      "category": "storage",
+      "secondaryCategories": [
+        "mechanical"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a MakerWorld login; selling prints needs a commercial license",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-rugged-print-in-place-box",
+      "name": "Customizable Rugged Box (Vostok Labs)",
+      "url": "https://makerworld.com/en/models/1642041-customizable-print-in-place-box-no-hardware-needed",
+      "page": "https://skipthecad.com/generators/vostok-rugged-print-in-place-box/",
+      "category": "boxes",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free with a MakerWorld login; selling prints needs a commercial license",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vostok-washer-spacer-generator",
+      "name": "Washer and Spacer Generator (Vostok Labs)",
+      "url": "https://makerworld.com/en/models/1669724-washer-and-spacer-generator-customizable",
+      "page": "https://skipthecad.com/generators/vostok-washer-spacer-generator/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free with a MakerWorld login; selling prints needs a commercial license",
+      "platform": [
+        "makerworld"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-08",
       "ownedBySite": false
     },
     {
