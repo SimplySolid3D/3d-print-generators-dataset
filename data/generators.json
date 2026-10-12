@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-10",
-  "count": 550,
+  "dateModified": "2026-10-11",
+  "count": 557,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -10664,7 +10664,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-10-08",
+      "verifiedOn": "2026-10-11",
       "ownedBySite": false
     },
     {
@@ -10828,6 +10828,129 @@
       "ownedBySite": false
     },
     {
+      "slug": "stl-playground-drawer-organizer",
+      "name": "STL Playground Drawer Organizer",
+      "url": "https://stlplayground.com/builders/drawer-organizer/",
+      "page": "https://skipthecad.com/generators/stl-playground-drawer-organizer/",
+      "category": "storage",
+      "secondaryCategories": [
+        "boxes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-playground-leveling-wedge-builder",
+      "name": "STL Playground Furniture Leveling Wedge Builder",
+      "url": "https://stlplayground.com/builders/furniture-leveling-wedge-builder/",
+      "page": "https://skipthecad.com/generators/stl-playground-leveling-wedge-builder/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-playground-lithophane-maker",
+      "name": "STL Playground Lithophane Maker",
+      "url": "https://stlplayground.com/builders/3d-printable-lithophane-maker/",
+      "page": "https://skipthecad.com/generators/stl-playground-lithophane-maker/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-playground-medallion-builder",
+      "name": "STL Playground Medallion Builder",
+      "url": "https://stlplayground.com/builders/medallion/",
+      "page": "https://skipthecad.com/generators/stl-playground-medallion-builder/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-playground-mini-cornhole-builder",
+      "name": "STL Playground Mini Cornhole Builder",
+      "url": "https://stlplayground.com/builders/mini-cornhole-builder/",
+      "page": "https://skipthecad.com/generators/stl-playground-mini-cornhole-builder/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
+      "ownedBySite": false
+    },
+    {
       "slug": "stl-playground-nametag-generator",
       "name": "STL Playground Nametag Generator",
       "url": "https://stlplayground.com/builders/stl-nametag-generator/",
@@ -10850,6 +10973,56 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-playground-peg-drop-game-builder",
+      "name": "STL Playground Peg Drop Game Builder",
+      "url": "https://stlplayground.com/builders/tabletop-peg-drop/",
+      "page": "https://skipthecad.com/generators/stl-playground-peg-drop-game-builder/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-playground-screw-top-container",
+      "name": "STL Playground Screw-Top Container Builder",
+      "url": "https://stlplayground.com/builders/custom-screw-top-container/",
+      "page": "https://skipthecad.com/generators/stl-playground-screw-top-container/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with a free account: 100 credits a month and 10 credits per download, so about 10 downloads a month, personal use only. Selling prints needs Pro ($9.99/month) or higher.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-11",
       "ownedBySite": false
     },
     {
