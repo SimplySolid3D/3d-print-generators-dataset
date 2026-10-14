@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-11",
-  "count": 557,
+  "dateModified": "2026-10-13",
+  "count": 594,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -319,6 +319,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "3d-print-calcs",
+      "name": "3D Print Calcs",
+      "url": "https://3dprintcalcs.net/",
+      "page": "https://skipthecad.com/generators/3d-print-calcs/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage",
+        "mechanical"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, ad-supported, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "3d-spool",
       "name": "3D.Spool",
       "url": "https://www.3dspool.ru/",
@@ -347,6 +371,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "3d-tag-maker",
+      "name": "3D Tag Maker",
+      "url": "https://3dtagmaker.com/",
+      "page": "https://skipthecad.com/generators/3d-tag-maker/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "signs-text",
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; optional print service at $2 a tag plus shipping",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "3dcityloader",
       "name": "3DCityLoader",
       "url": "https://3dcityloader.com/en",
@@ -366,6 +415,105 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dcrafts-appnfc-craft",
+      "name": "AppNFC Craft (3D PrintCraft)",
+      "url": "https://3dcrafts.ru/appnfcraft.html",
+      "page": "https://skipthecad.com/generators/3dcrafts-appnfc-craft/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "codes",
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "PRO plan for all PRO generators: 99 RUB a week, 299 RUB a month or 1,990 RUB a year; a 3-day trial of all generators after sign-up, no card needed",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dcrafts-cut-craft",
+      "name": "Cut Craft (3D PrintCraft)",
+      "url": "https://3dcrafts.ru/cutcraft.html",
+      "page": "https://skipthecad.com/generators/3dcrafts-cut-craft/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with no account; most other 3D PrintCraft generators need PRO at 99 RUB a week, 299 RUB a month or 1,990 RUB a year",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dcrafts-led-craft",
+      "name": "LED Craft (3D PrintCraft)",
+      "url": "https://3dcrafts.ru/ledcraft.html",
+      "page": "https://skipthecad.com/generators/3dcrafts-led-craft/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "vases-lamps"
+      ],
+      "pricing": "paid",
+      "priceNote": "PRO plan for all PRO generators: 99 RUB a week, 299 RUB a month or 1,990 RUB a year; a 3-day trial of all generators after sign-up, no card needed",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dcrafts-mold-craft",
+      "name": "Mold Craft (3D PrintCraft)",
+      "url": "https://3dcrafts.ru/moldcraft.html",
+      "page": "https://skipthecad.com/generators/3dcrafts-mold-craft/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "paid",
+      "priceNote": "PRO plan for all PRO generators: 99 RUB a week, 299 RUB a month or 1,990 RUB a year; a 3-day trial of all generators after sign-up, no card needed",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -389,7 +537,31 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dcrafts-vase-craft",
+      "name": "Vase Craft (3D PrintCraft)",
+      "url": "https://3dcrafts.ru/vasecraft.html",
+      "page": "https://skipthecad.com/generators/3dcrafts-vase-craft/",
+      "category": "vases-lamps",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "PRO plan for all PRO generators: 99 RUB a week, 299 RUB a month or 1,990 RUB a year; a 3-day trial of all generators after sign-up",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -440,6 +612,27 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dmeld-qr-code-generator",
+      "name": "3DMeld 3D Print QR Code Generator",
+      "url": "https://3dmeld.com/3d-print-qr-code",
+      "page": "https://skipthecad.com/generators/3dmeld-qr-code-generator/",
+      "category": "codes",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -835,6 +1028,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "astromar-bahtinov-mask-generator",
+      "name": "Astromar Bahtinov Mask Generator",
+      "url": "https://astromar.co.uk/learn/bahtinov-mask-focusing",
+      "page": "https://skipthecad.com/generators/astromar-bahtinov-mask-generator/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account, runs in your browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -1554,6 +1768,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "caustic-lens-generator-yunyi-zhu",
+      "name": "Caustic Lens Generator (Yunyi Zhu)",
+      "url": "https://yunyi-zhu.github.io/caustic-browser-app/",
+      "page": "https://skipthecad.com/generators/caustic-lens-generator-yunyi-zhu/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "lithophanes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, runs in your browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "OBJ"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "chainmail-customizable-tool",
       "name": "Chainmail - Customizable Tool",
       "url": "https://makerworld.com/en/models/1303278-chainmail-customizable-tool",
@@ -1812,6 +2049,32 @@
       "ownedBySite": false
     },
     {
+      "slug": "connector-foundry",
+      "name": "Connector Foundry",
+      "url": "https://dnnsmnstrr.github.io/connector-foundry/",
+      "page": "https://skipthecad.com/generators/connector-foundry/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "storage",
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; desktop apps for Mac and Windows",
+      "platform": [
+        "web",
+        "windows",
+        "mac"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "containercad",
       "name": "Container CAD",
       "url": "https://containercad.com/",
@@ -1920,6 +2183,31 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "counter-slayer",
+      "name": "Counter Slayer",
+      "url": "https://counterslayer.com/",
+      "page": "https://skipthecad.com/generators/counter-slayer/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "boxes",
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -2802,6 +3090,32 @@
       "ownedBySite": false
     },
     {
+      "slug": "cutterstech",
+      "name": "CuttersTech",
+      "url": "https://www.cutterstech.com/",
+      "page": "https://skipthecad.com/generators/cutterstech/",
+      "category": "cookie-cutters",
+      "secondaryCategories": [
+        "keychains",
+        "boxes",
+        "customizers"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free cutter studio with 2 STL downloads a month on a free account; Maker €5.99, Pro €14.99 or Ultra €24.99 a month, or a €4.99 7-day pass",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "d-shaft-knob-generator",
       "name": "D Shaft Knob Generator",
       "url": "https://makerworld.com/en/models/1142338-d-shaft-knob-generator",
@@ -2821,6 +3135,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "dabba",
+      "name": "Dabba",
+      "url": "https://shahidhussain-srti.github.io/dabba/",
+      "page": "https://skipthecad.com/generators/dabba/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -3039,12 +3377,13 @@
         "web"
       ],
       "outputs": [
-        "3MF"
+        "3MF",
+        "STL"
       ],
       "multicolor": false,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-09-28",
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -3865,6 +4204,76 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "genform-cavity",
+      "name": "Cavity (Genform)",
+      "url": "https://gen-form.com/cavity",
+      "page": "https://skipthecad.com/generators/genform-cavity/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "paid",
+      "priceNote": "Genform plan required: Starter $29 a month or Business $49 a month ($19 and $39 for the first 12 months when you subscribe by Nov 12, 2026); free 7-day Starter trial for verified new accounts, no card",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "genform-hey-buddy",
+      "name": "Hey Buddy (Genform)",
+      "url": "https://gen-form.com/hey-buddy/",
+      "page": "https://skipthecad.com/generators/genform-hey-buddy/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "puzzles-games",
+        "customizers"
+      ],
+      "pricing": "paid",
+      "priceNote": "Free to try in the browser; download needs a Genform plan: Starter $29 a month (personal) or Business $49 a month (commercial), $19 and $39 for the first 12 months by Nov 12, 2026; free 7-day Starter trial",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "genform-taghaus",
+      "name": "Taghaus (Genform)",
+      "url": "https://gen-form.com/taghaus/",
+      "page": "https://skipthecad.com/generators/genform-taghaus/",
+      "category": "codes",
+      "secondaryCategories": [
+        "signs-text",
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "Free to try in the browser; export needs a Genform plan: Starter $29 a month or Business $49 a month ($19 and $39 for the first 12 months by Nov 12, 2026); free 7-day Starter trial, no card",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -5159,6 +5568,80 @@
       "ownedBySite": false
     },
     {
+      "slug": "kenerate-lithophane-maker",
+      "name": "Kenerate Lithophane Maker",
+      "url": "https://kenerateai.com/lithophane-maker",
+      "page": "https://skipthecad.com/generators/kenerate-lithophane-maker/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; the AI 3D studio on the same site is paid",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "keychaingenerator-tech",
+      "name": "Free Keychain Generator",
+      "url": "https://keychaingenerator.tech/",
+      "page": "https://skipthecad.com/generators/keychaingenerator-tech/",
+      "category": "keychains",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account; funded by ads and donations",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "keygen-mendiola",
+      "name": "KeyGen",
+      "url": "https://key-gen.pages.dev/",
+      "page": "https://skipthecad.com/generators/keygen-mendiola/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "customizers",
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; 5 of the 15 tools are preview only",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "kinematics-at-home",
       "name": "Kinematics @ Home",
       "url": "https://n-e-r-v-o-u-s.com/kinematicsHome/",
@@ -5558,6 +6041,50 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "lamp-shade-designer-j0nas",
+      "name": "Lamp Shade Designer",
+      "url": "https://j0nas.github.io/lamp-shade-designer/",
+      "page": "https://skipthecad.com/generators/lamp-shade-designer-j0nas/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "STEP"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "lampmaker-app",
+      "name": "Lamp Maker",
+      "url": "https://lampmaker.app/",
+      "page": "https://skipthecad.com/generators/lampmaker-app/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account; no paid plan shown",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -7056,6 +7583,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "mc-print",
+      "name": "mc-print",
+      "url": "https://mc-print.tomgroenwoldt.de/",
+      "page": "https://skipthecad.com/generators/mc-print/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; optional Ko-fi tip",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "measuring-cup-spoon-generator",
       "name": "Measuring Cup / Measuring Spoon Generator (Maochen)",
       "url": "https://makerworld.com/en/models/2227124-measuring-cup-measuring-spoon-generator",
@@ -7850,6 +8401,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "nederprint",
+      "name": "NederPrint",
+      "url": "https://nederprint.nl/",
+      "page": "https://skipthecad.com/generators/nederprint/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts",
+        "puzzles-games"
+      ],
+      "pricing": "free",
+      "priceNote": "Free 3MF export, no account; printed maps to order from €15",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "neo-gear",
       "name": "Neo Gear",
       "url": "https://gears.dmtrkovalenko.dev/",
@@ -8135,6 +8710,29 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "open-mouthpiece",
+      "name": "Open Mouthpiece",
+      "url": "https://opensaxmouthpiece.org/",
+      "page": "https://skipthecad.com/generators/open-mouthpiece/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no ads, no account; optional Ko-fi tips",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -9229,7 +9827,7 @@
       "category": "image-relief",
       "secondaryCategories": [],
       "pricing": "freemium",
-      "priceNote": "Free path in MakerLab with a MakerWorld account; optional Design Pack $19.90 and Fabrication Pack $9; the standalone plakhaus.com app is sold through its MakerWorld campaign, commercial licenses by email",
+      "priceNote": "Free path in MakerLab with a MakerWorld account (personal use); optional Design Pack $19.90 and Fabrication Pack $9. Through Genform, gen-form.com lists Starter at $29 a month (every tool, personal use) and Business at $49 a month (commercial license, store and order handling), with a launch offer of $19 and $39 a month for the first 12 months when you subscribe by November 12, 2026.",
       "platform": [
         "web",
         "windows",
@@ -9292,6 +9890,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "platonic-dowel-connectors",
+      "name": "Platonic",
+      "url": "https://platonic.juli.au/",
+      "page": "https://skipthecad.com/generators/platonic-dowel-connectors/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "puzzles-games",
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -9520,6 +10142,36 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printnexus",
+      "name": "PrintNexus",
+      "url": "https://printnexus.io/tools",
+      "page": "https://skipthecad.com/generators/printnexus/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "maps-terrain",
+        "image-relief",
+        "codes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; the site sells printable guides",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "STEP",
+        "SVG",
+        "PNG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -10085,6 +10737,27 @@
       "ownedBySite": false
     },
     {
+      "slug": "rc-wheel-model-studio",
+      "name": "RC Wheel Model Studio",
+      "url": "https://randall-frank.github.io/wheel_studio/",
+      "page": "https://skipthecad.com/generators/rc-wheel-model-studio/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "react-finity",
       "name": "React-Finity",
       "url": "https://tyevco.github.io/react-finity/",
@@ -10104,6 +10777,29 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-10-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "relief-globes-hedin",
+      "name": "Relief Globes (hedin.it)",
+      "url": "https://hedin.it/relief-globes/",
+      "page": "https://skipthecad.com/generators/relief-globes-hedin/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -10550,6 +11246,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "solder-stencil-me",
+      "name": "solder-stencil.me",
+      "url": "https://solder-stencil.me/",
+      "page": "https://skipthecad.com/generators/solder-stencil-me/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account; optional Ko-fi tip",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -11353,6 +12070,28 @@
       "ownedBySite": false
     },
     {
+      "slug": "tenebrae-studio",
+      "name": "Tenebrae",
+      "url": "https://knnurl.github.io/tenebrae-studio/",
+      "page": "https://skipthecad.com/generators/tenebrae-studio/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "terrain-6",
       "name": "Terrain 6",
       "url": "https://terrain6.com/",
@@ -11607,6 +12346,32 @@
       "ownedBySite": false
     },
     {
+      "slug": "threedeeforge",
+      "name": "threedeeforge",
+      "url": "https://threedeeforge.com/",
+      "page": "https://skipthecad.com/generators/threedeeforge/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "keychains",
+        "gifts",
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; tips via Buy Me a Coffee",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "tinting-voxel",
       "name": "Tinting Voxel",
       "url": "https://tintingvoxel.com/",
@@ -11647,6 +12412,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "tomoshibi",
+      "name": "Tomoshibi",
+      "url": "https://shunyakoide.github.io/tomoshibi/",
+      "page": "https://skipthecad.com/generators/tomoshibi/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account, open source",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -12354,6 +13140,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "vecto3d",
+      "name": "Vecto3d",
+      "url": "https://vecto3d.app/",
+      "page": "https://skipthecad.com/generators/vecto3d/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, open source",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "GLB",
+        "PNG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
       "slug": "ventforge-parametric-vents",
       "name": "VentForge - Parametric Vents, Covers & Diffusers",
       "url": "https://makerworld.com/en/models/2955666-ventforge-parametric-vents-covers-diffusers",
@@ -12469,6 +13280,57 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vol3d-studio",
+      "name": "Vol3D Studio",
+      "url": "https://vol3d.com/studio/?lang=en",
+      "page": "https://skipthecad.com/generators/vol3d-studio/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "keychains",
+        "signs-text",
+        "codes"
+      ],
+      "pricing": "freemium",
+      "priceNote": "One trial save as a guest, 2 a month with a free account; paid plans from 39 UAH a month",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "OBJ",
+        "PNG",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
+      "ownedBySite": false
+    },
+    {
+      "slug": "volksswitch-keyguard-designer",
+      "name": "Volksswitch Keyguard Designer",
+      "url": "https://volksswitch.org/index.php/volks-devices/customizable-3d-printable-keyguard-for-grid-based-free-form-and-hybrid-aac-apps-on-tablets/",
+      "page": "https://skipthecad.com/generators/volksswitch-keyguard-designer/",
+      "category": "customizers",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account; needs Chrome, Edge or Opera on a computer",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
@@ -12805,6 +13667,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "where-is-my-pick",
+      "name": "Where Is My Pick",
+      "url": "https://caique-lima.github.io/where-is-my-pick/",
+      "page": "https://skipthecad.com/generators/where-is-my-pick/",
+      "category": "gifts",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-13",
       "ownedBySite": false
     },
     {
