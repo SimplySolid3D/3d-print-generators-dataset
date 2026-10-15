@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-13",
-  "count": 594,
+  "dateModified": "2026-10-14",
+  "count": 595,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -4343,8 +4343,8 @@
       ],
       "multicolor": false,
       "accountRequired": false,
-      "openSource": false,
-      "verifiedOn": "2026-10-10",
+      "openSource": true,
+      "verifiedOn": "2026-10-14",
       "ownedBySite": false
     },
     {
@@ -8864,7 +8864,7 @@
         "gifts"
       ],
       "pricing": "paid",
-      "priceNote": "Generating and 3D preview are free. Every STL or 3MF download uses a credit from a one-time pass, from $12 for 6 downloads a year. In September 2026 a limited number of early-bird places were offered at lower prices.",
+      "priceNote": "Generating and 3D preview are free. Every STL or 3MF download uses a credit from a one-time pass: Starter $12 for 6 downloads a year, Premium $29 for 20, Creator $79 unlimited, Merchant $199 unlimited with the right to sell prints.",
       "platform": [
         "web"
       ],
@@ -8875,7 +8875,7 @@
       "multicolor": true,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-14",
       "ownedBySite": true
     },
     {
@@ -11106,6 +11106,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "skadisgen",
+      "name": "Skadisgen (SKÅDIS Peg Generator)",
+      "url": "https://skadisgen.com/",
+      "page": "https://skipthecad.com/generators/skadisgen/",
+      "category": "storage",
+      "secondaryCategories": [
+        "mechanical"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STEP",
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-14",
       "ownedBySite": false
     },
     {
