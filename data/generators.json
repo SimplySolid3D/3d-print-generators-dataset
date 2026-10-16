@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-14",
-  "count": 595,
+  "dateModified": "2026-10-16",
+  "count": 609,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -911,7 +911,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-15",
       "ownedBySite": false
     },
     {
@@ -3724,7 +3724,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-15",
       "ownedBySite": false
     },
     {
@@ -8350,7 +8350,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-15",
       "ownedBySite": false
     },
     {
@@ -8967,6 +8967,297 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-28",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-ai-3d-generator",
+      "name": "OwlCAD AI 3D Generator",
+      "url": "https://owlcad.com/ai-3d-generator",
+      "page": "https://skipthecad.com/generators/owlcad-ai-3d-generator/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "mechanical"
+      ],
+      "pricing": "paid",
+      "priceNote": "Pro $12/month or $120/year, about 20 AI generations a month; top-up packs, or bring your own provider key. The editor itself is free but has no AI credits.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-ball-bearing",
+      "name": "Print-in-Place Ball Bearing Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/ball-bearing",
+      "page": "https://skipthecad.com/generators/owlcad-ball-bearing/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-ball-joint",
+      "name": "Print-in-Place Ball Joint Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/ball-joint",
+      "page": "https://skipthecad.com/generators/owlcad-ball-joint/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-clamp",
+      "name": "Clamp Generator for Pipe and Tube (OwlCAD)",
+      "url": "https://owlcad.com/customizers/clamp",
+      "page": "https://skipthecad.com/generators/owlcad-clamp/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-compression-spring",
+      "name": "Compression Spring Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/compression-spring",
+      "page": "https://skipthecad.com/generators/owlcad-compression-spring/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-customizers",
+      "name": "OwlCAD Customizers",
+      "url": "https://owlcad.com/customizers",
+      "page": "https://skipthecad.com/generators/owlcad-customizers/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "mechanical",
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-fit-test-coupon",
+      "name": "Fit Test Coupon Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/fit-test-coupon",
+      "page": "https://skipthecad.com/generators/owlcad-fit-test-coupon/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-pin-hinge",
+      "name": "Print-in-Place Pin Hinge Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/pin-hinge",
+      "page": "https://skipthecad.com/generators/owlcad-pin-hinge/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-planetary-gearbox",
+      "name": "Planetary Gearbox Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/planetary-gearbox",
+      "page": "https://skipthecad.com/generators/owlcad-planetary-gearbox/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-15",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-pulley-sprocket",
+      "name": "Timing Pulley and Sprocket Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/pulley",
+      "page": "https://skipthecad.com/generators/owlcad-pulley-sprocket/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-rack-and-pinion",
+      "name": "Rack and Pinion Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/rack-and-pinion",
+      "page": "https://skipthecad.com/generators/owlcad-rack-and-pinion/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-timing-belt",
+      "name": "Timing Belt Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/timing-belt",
+      "page": "https://skipthecad.com/generators/owlcad-timing-belt/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "owlcad-worm-drive",
+      "name": "Worm Drive Generator (OwlCAD)",
+      "url": "https://owlcad.com/customizers/worm-drive",
+      "page": "https://skipthecad.com/generators/owlcad-worm-drive/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "The customizers and the editor are free; only OwlCAD's AI features need the Pro subscription",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
       "ownedBySite": false
     },
     {
@@ -11540,6 +11831,31 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stl-er",
+      "name": "stl-er",
+      "url": "https://www.stl-er.com/",
+      "page": "https://skipthecad.com/generators/stl-er/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free: 5 STL downloads a month and unlimited slider changes. Premium $5.99/month ($59.99/year) for 100 AI generations a month; Pro $15.99/month ($159.99/year) for 500, with top-up credits. Billed through the App Store or Google Play.",
+      "platform": [
+        "web",
+        "ios",
+        "android"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-15",
       "ownedBySite": false
     },
     {
