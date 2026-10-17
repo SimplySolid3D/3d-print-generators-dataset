@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-16",
-  "count": 609,
+  "dateModified": "2026-10-17",
+  "count": 616,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -4512,6 +4512,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "gridbox-pro",
+      "name": "Gridbox Pro",
+      "url": "https://gridboxpro.com/",
+      "page": "https://skipthecad.com/generators/gridbox-pro/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "paid",
+      "priceNote": "Designing is free with no account; exporting needs a one-time license: Personal $130 at launch until December 31 (then $150), Commercial $300",
+      "platform": [
+        "windows",
+        "mac"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-17",
+      "ownedBySite": false
+    },
+    {
       "slug": "gridfinity-builder-tunelko",
       "name": "Gridfinity Builder",
       "url": "https://gridfinity.securedev.codes/",
@@ -6812,6 +6835,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "makerito",
+      "name": "Makerito",
+      "url": "https://makerito.com/",
+      "page": "https://skipthecad.com/generators/makerito/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free today, with an optional tip jar; you need to sign in to create a model",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-17",
+      "ownedBySite": false
+    },
+    {
       "slug": "makerlab-christmas-ornament-maker",
       "name": "Christmas Ornament Maker (MakerLab)",
       "url": "https://makerworld.com/en/makerlab/christmasOrnamentMaker",
@@ -7976,6 +8024,101 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-clicker-studio",
+      "name": "MiniForge Clicker Studio",
+      "url": "https://tools.miniforge.io/clicker",
+      "page": "https://skipthecad.com/generators/miniforge-clicker-studio/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-cookie-cutter-studio",
+      "name": "MiniForge Cookie Cutter Studio",
+      "url": "https://tools.miniforge.io/cookie-cutter",
+      "page": "https://skipthecad.com/generators/miniforge-cookie-cutter-studio/",
+      "category": "cookie-cutters",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-name-garland-studio",
+      "name": "MiniForge Name Garland Studio",
+      "url": "https://tools.miniforge.io/name-garland",
+      "page": "https://skipthecad.com/generators/miniforge-name-garland-studio/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "GLB"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-name-keychain",
+      "name": "MiniForge Name Keychain",
+      "url": "https://tools.miniforge.io/name-keychain",
+      "page": "https://skipthecad.com/generators/miniforge-name-keychain/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
       "ownedBySite": false
     },
     {
@@ -9947,7 +10090,7 @@
         "gifts"
       ],
       "pricing": "freemium",
-      "priceNote": "Free open beta with free generation credits after sign-in, no credit card; announced paid plans charge per model (Hobby about $0.75, Maker $0.63, Studio $0.60)",
+      "priceNote": "Free plan with 2 models and 6 AI photos a month, no card; Hobby $9/month (engraving), Maker $19/month (multicolor, commercial use), Studio $39/month; prices before tax",
       "platform": [
         "web"
       ],
@@ -9955,10 +10098,10 @@
         "STL",
         "3MF"
       ],
-      "multicolor": false,
+      "multicolor": true,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-01",
+      "verifiedOn": "2026-10-16",
       "ownedBySite": false
     },
     {
@@ -13456,6 +13599,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vaseverse",
+      "name": "Vaseverse",
+      "url": "https://vaseverse.org/",
+      "page": "https://skipthecad.com/generators/vaseverse/",
+      "category": "vases-lamps",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, no ads",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-16",
       "ownedBySite": false
     },
     {

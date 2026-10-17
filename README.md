@@ -1,27 +1,27 @@
 # No-CAD 3D print generators: open dataset
 
-609 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+616 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-10-16
+- **Last check of any listing:** 2026-10-17
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 478 | 78% |
-| Freemium | 94 | 15% |
-| Paid | 37 | 6% |
-| Runs in a browser | 414 | 68% |
-| Exports STL | 531 | 87% |
-| Exports 3MF | 381 | 63% |
-| Multicolor | 209 | 34% |
-| No account needed | 319 | 52% |
-| Open source | 113 | 19% |
+| Free | 480 | 78% |
+| Freemium | 98 | 16% |
+| Paid | 38 | 6% |
+| Runs in a browser | 420 | 68% |
+| Exports STL | 538 | 87% |
+| Exports 3MF | 388 | 63% |
+| Multicolor | 214 | 35% |
+| No account needed | 321 | 52% |
+| Open source | 113 | 18% |
 
 More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/).
 
@@ -30,18 +30,18 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | Category | Tools |
 | --- | ---: |
 | [Lithophanes](https://skipthecad.com/category/lithophanes/) | 24 |
-| [Storage](https://skipthecad.com/category/storage/) | 64 |
+| [Storage](https://skipthecad.com/category/storage/) | 65 |
 | [Boxes](https://skipthecad.com/category/boxes/) | 33 |
-| [Signs & Text](https://skipthecad.com/category/signs-text/) | 57 |
-| [Keychains](https://skipthecad.com/category/keychains/) | 29 |
+| [Signs & Text](https://skipthecad.com/category/signs-text/) | 59 |
+| [Keychains](https://skipthecad.com/category/keychains/) | 30 |
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 21 |
 | [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 38 |
 | [AI to 3D](https://skipthecad.com/category/ai-3d/) | 41 |
 | [Image to Relief](https://skipthecad.com/category/image-relief/) | 33 |
-| [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 17 |
-| [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 30 |
+| [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 18 |
+| [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 31 |
 | [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 99 |
-| [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 54 |
+| [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 55 |
 | [Customizers](https://skipthecad.com/category/customizers/) | 26 |
 | [Gifts](https://skipthecad.com/category/gifts/) | 43 |
 
