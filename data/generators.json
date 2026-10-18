@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-17",
-  "count": 616,
+  "dateModified": "2026-10-18",
+  "count": 622,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -6844,7 +6844,7 @@
         "gifts"
       ],
       "pricing": "free",
-      "priceNote": "Free today, with an optional tip jar; you need to sign in to create a model",
+      "priceNote": "Free at launch with a limit on how many 3MFs you can generate; the maker plans paid complex models and a plan with higher limits (Oct 2026). You need to sign in to create a model",
       "platform": [
         "web"
       ],
@@ -8122,6 +8122,76 @@
       "ownedBySite": false
     },
     {
+      "slug": "modelador3d-channel-letters",
+      "name": "Modelador 3D Channel Letters & Signs",
+      "url": "https://modelador3d.com.br/personalizador/letreiro",
+      "page": "https://skipthecad.com/generators/modelador3d-channel-letters/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free STL downloads after a first name and email signup; an optional donation is suggested. Printing and custom modeling are sold separately.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-17",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-jigsaw-puzzle",
+      "name": "Modelador 3D Jigsaw Puzzle Generator",
+      "url": "https://modelador3d.com.br/personalizador/quebra-cabeca",
+      "page": "https://skipthecad.com/generators/modelador3d-jigsaw-puzzle/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and email signup; an optional donation is suggested. Printing and custom modeling are sold separately.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-lithophane",
+      "name": "Modelador 3D Lithophane Generator",
+      "url": "https://modelador3d.com.br/personalizador/litofania",
+      "page": "https://skipthecad.com/generators/modelador3d-lithophane/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and email signup; an optional donation is suggested. Printing and custom modeling are sold separately.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
       "slug": "modelador3d-part-generator",
       "name": "Modelador 3D Part Generator",
       "url": "https://modelador3d.com.br/personalizador",
@@ -8144,6 +8214,54 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-qr-code-plate",
+      "name": "Modelador 3D QR Code Plate & Keychain",
+      "url": "https://modelador3d.com.br/personalizador/qr-code-3d",
+      "page": "https://skipthecad.com/generators/modelador3d-qr-code-plate/",
+      "category": "codes",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and email signup; an optional donation is suggested. Printing and custom modeling are sold separately.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-stl-texturizer",
+      "name": "Modelador 3D STL Texturizer",
+      "url": "https://modelador3d.com.br/texturizar",
+      "page": "https://skipthecad.com/generators/modelador3d-stl-texturizer/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "image-relief"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads during the beta; the maker plans R$1.90 per texture applied at download later (Oct 2026). Account requirements for this tool were not confirmed.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-18",
       "ownedBySite": false
     },
     {
@@ -13533,6 +13651,32 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vase-3d",
+      "name": "VASE 3D",
+      "url": "https://vase3d.io/",
+      "page": "https://skipthecad.com/generators/vase-3d/",
+      "category": "vases-lamps",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free plan with 19 patterns, 25 saved pieces and a VASE logo and QR code pressed into the base; Maker $29 a month ($15 a month billed yearly) for a clean base and lids; Foundry $79 a month ($29 a month billed yearly) for handles, legs and your own mark",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-18",
       "ownedBySite": false
     },
     {
