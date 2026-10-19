@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-18",
-  "count": 622,
+  "dateModified": "2026-10-19",
+  "count": 624,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -752,6 +752,33 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ai3d-studio",
+      "name": "AI3D Studio",
+      "url": "https://ai3d.studio/",
+      "page": "https://skipthecad.com/generators/ai3d-studio/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free browser tools and sample models; generating needs credits: plans $12, $29 or $79 a month (600, 1,800 or 5,500 credits), yearly at ten months' price, one-time packs from $19 for 500 credits",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB",
+        "FBX",
+        "USDZ",
+        "PLY"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-19",
       "ownedBySite": false
     },
     {
@@ -5356,7 +5383,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-18",
       "ownedBySite": false
     },
     {
@@ -8359,6 +8386,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "moldy",
+      "name": "Moldy",
+      "url": "https://moldy.vase3d.io/",
+      "page": "https://skipthecad.com/generators/moldy/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "vases-lamps"
+      ],
+      "pricing": "free",
+      "priceNote": "Free in beta with a VASE 3D account: 3 kit downloads a month, shared with VASE 3D",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-18",
       "ownedBySite": false
     },
     {

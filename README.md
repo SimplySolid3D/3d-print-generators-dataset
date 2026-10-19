@@ -1,25 +1,25 @@
 # No-CAD 3D print generators: open dataset
 
-622 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+624 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-10-18
+- **Last check of any listing:** 2026-10-19
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 485 | 78% |
-| Freemium | 99 | 16% |
+| Free | 486 | 78% |
+| Freemium | 100 | 16% |
 | Paid | 38 | 6% |
-| Runs in a browser | 426 | 68% |
-| Exports STL | 544 | 87% |
-| Exports 3MF | 390 | 63% |
-| Multicolor | 214 | 34% |
+| Runs in a browser | 428 | 69% |
+| Exports STL | 546 | 88% |
+| Exports 3MF | 392 | 63% |
+| Multicolor | 215 | 34% |
 | No account needed | 322 | 52% |
 | Open source | 113 | 18% |
 
@@ -36,13 +36,13 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [Keychains](https://skipthecad.com/category/keychains/) | 30 |
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 22 |
 | [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 38 |
-| [AI to 3D](https://skipthecad.com/category/ai-3d/) | 41 |
+| [AI to 3D](https://skipthecad.com/category/ai-3d/) | 42 |
 | [Image to Relief](https://skipthecad.com/category/image-relief/) | 33 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 18 |
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 32 |
 | [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 99 |
 | [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 56 |
-| [Customizers](https://skipthecad.com/category/customizers/) | 27 |
+| [Customizers](https://skipthecad.com/category/customizers/) | 28 |
 | [Gifts](https://skipthecad.com/category/gifts/) | 43 |
 
 Counted by primary category; tools can also appear in up to three other categories (`secondaryCategories`).
