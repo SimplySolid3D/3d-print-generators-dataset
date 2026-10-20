@@ -7,7 +7,7 @@
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
   "dateModified": "2026-10-19",
-  "count": 624,
+  "count": 625,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -1354,6 +1354,30 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "boxesmodel",
+      "name": "BoxesModel",
+      "url": "https://boxesmodel.com/",
+      "page": "https://skipthecad.com/generators/boxesmodel/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Default-size STL and STEP downloads free with an account; custom exports $1.90 per model (one-time) or $9.90 a month, $24.90 a quarter, $79.90 a year",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "STEP"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-19",
       "ownedBySite": false
     },
     {

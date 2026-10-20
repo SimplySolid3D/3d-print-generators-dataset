@@ -1,6 +1,6 @@
 # No-CAD 3D print generators: open dataset
 
-624 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+625 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
@@ -14,10 +14,10 @@ Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.co
 | | Tools | Share |
 | --- | ---: | ---: |
 | Free | 486 | 78% |
-| Freemium | 100 | 16% |
+| Freemium | 101 | 16% |
 | Paid | 38 | 6% |
-| Runs in a browser | 428 | 69% |
-| Exports STL | 546 | 88% |
+| Runs in a browser | 429 | 69% |
+| Exports STL | 547 | 88% |
 | Exports 3MF | 392 | 63% |
 | Multicolor | 215 | 34% |
 | No account needed | 322 | 52% |
@@ -31,7 +31,7 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | --- | ---: |
 | [Lithophanes](https://skipthecad.com/category/lithophanes/) | 25 |
 | [Storage](https://skipthecad.com/category/storage/) | 65 |
-| [Boxes](https://skipthecad.com/category/boxes/) | 33 |
+| [Boxes](https://skipthecad.com/category/boxes/) | 34 |
 | [Signs & Text](https://skipthecad.com/category/signs-text/) | 60 |
 | [Keychains](https://skipthecad.com/category/keychains/) | 30 |
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 22 |
