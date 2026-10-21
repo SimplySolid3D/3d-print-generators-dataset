@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-19",
-  "count": 625,
+  "dateModified": "2026-10-21",
+  "count": 629,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -4827,6 +4827,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "gridmint",
+      "name": "Gridmint",
+      "url": "https://gridmint.net/en/",
+      "page": "https://skipthecad.com/generators/gridmint/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account needed; optional free sign-in syncs projects; tips welcome",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "STEP",
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-21",
+      "ownedBySite": false
+    },
+    {
       "slug": "gridpilot",
       "name": "GridPilot",
       "url": "https://gridpilot.us/",
@@ -9199,8 +9223,8 @@
         "puzzles-games",
         "gifts"
       ],
-      "pricing": "paid",
-      "priceNote": "Generating and 3D preview are free. Every STL or 3MF download uses a credit from a one-time pass: Starter $12 for 6 downloads a year, Premium $29 for 20, Creator $79 unlimited, Merchant $199 unlimited with the right to sell prints.",
+      "pricing": "freemium",
+      "priceNote": "Generating and 3D preview are free, no account. Downloads need a plan: Plus $9.99 a month or $79 a year for unlimited downloads for personal use and gifts; Merchant $14.99 a month or $119 a year adds the right to sell prints. The campaign's one-time lifetime passes are still on sale as a MakerWorld late pledge.",
       "platform": [
         "web"
       ],
@@ -9211,7 +9235,7 @@
       "multicolor": true,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-14",
+      "verifiedOn": "2026-10-21",
       "ownedBySite": true
     },
     {
@@ -9224,7 +9248,7 @@
         "maps-terrain"
       ],
       "pricing": "freemium",
-      "priceNote": "STL downloads free, no account. Pre-colored 3MF files use one credit from a one-time pass bought on MakerWorld (from $12 for 6 downloads a year).",
+      "priceNote": "The STL is free and needs no account. The multicolor 3MF costs one download credit per chart, which also covers its desk stand; Plus ($9.99 a month or $79 a year) includes unlimited star map 3MFs.",
       "platform": [
         "web"
       ],
@@ -9235,7 +9259,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-25",
+      "verifiedOn": "2026-10-21",
       "ownedBySite": true
     },
     {
@@ -12861,6 +12885,32 @@
       "ownedBySite": false
     },
     {
+      "slug": "tessera",
+      "name": "Tessera",
+      "url": "https://tessera.3dprinttoolkit.com/",
+      "page": "https://skipthecad.com/generators/tessera/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "STEP",
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-20",
+      "ownedBySite": false
+    },
+    {
       "slug": "text2stl",
       "name": "Text2STL",
       "url": "https://text2stl.mestres.fr/en-us",
@@ -13093,7 +13143,7 @@
     {
       "slug": "tomoshibi",
       "name": "Tomoshibi",
-      "url": "https://shunyakoide.github.io/tomoshibi/",
+      "url": "https://tomoshibi.shunyakoide.com/",
       "page": "https://skipthecad.com/generators/tomoshibi/",
       "category": "vases-lamps",
       "secondaryCategories": [],
@@ -13108,7 +13158,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-10-13",
+      "verifiedOn": "2026-10-21",
       "ownedBySite": false
     },
     {
@@ -13475,6 +13525,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "tucked",
+      "name": "Tucked: Gridfinity Tray Maker",
+      "url": "https://tucked.me/",
+      "page": "https://skipthecad.com/generators/tucked/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free app; trays from dimensions free; photo trays: 5 free credits, then $3.99 for 10 or $8.99 for 30 (no expiry)",
+      "platform": [
+        "ios"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-21",
       "ownedBySite": false
     },
     {
@@ -13910,6 +13981,27 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "vesselmaker",
+      "name": "VesselMaker",
+      "url": "https://vesselmaker.app/",
+      "page": "https://skipthecad.com/generators/vesselmaker/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free beta for the core editor and exports without premium features; Pro (premium exports) and Commercial (selling) plans are unlocked by code for now, no public prices yet",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-20",
       "ownedBySite": false
     },
     {
