@@ -6,7 +6,7 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-21",
+  "dateModified": "2026-10-22",
   "count": 629,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
@@ -4447,7 +4447,7 @@
       "multicolor": true,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-06",
+      "verifiedOn": "2026-10-22",
       "ownedBySite": false
     },
     {
@@ -10300,7 +10300,7 @@
     {
       "slug": "phorm",
       "name": "PHORM",
-      "url": "https://phorm.to",
+      "url": "https://phorm.to/?utm_source=skipthecad&utm_medium=referral&utm_campaign=profile-bio",
       "page": "https://skipthecad.com/generators/phorm/",
       "category": "ai-3d",
       "secondaryCategories": [
@@ -10318,7 +10318,7 @@
       "multicolor": true,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-16",
+      "verifiedOn": "2026-10-22",
       "ownedBySite": false
     },
     {
