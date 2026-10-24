@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-22",
-  "count": 629,
+  "dateModified": "2026-10-23",
+  "count": 632,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -1377,7 +1377,7 @@
       "multicolor": false,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-23",
       "ownedBySite": false
     },
     {
@@ -5294,6 +5294,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "image2stl-app",
+      "name": "Image2STL",
+      "url": "https://image2stl.app/",
+      "page": "https://skipthecad.com/generators/image2stl-app/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "lithophanes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-23",
+      "ownedBySite": false
+    },
+    {
       "slug": "imageonline-image-to-stl",
       "name": "Image Online Image to STL",
       "url": "https://imageonline.io/image-to-stl/",
@@ -8111,7 +8134,7 @@
         "keychains"
       ],
       "pricing": "freemium",
-      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "priceNote": "Free for personal use with MiniForge branding, up to 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
       "platform": [
         "web"
       ],
@@ -8133,7 +8156,7 @@
       "category": "cookie-cutters",
       "secondaryCategories": [],
       "pricing": "freemium",
-      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "priceNote": "Free for personal use with MiniForge branding, up to 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
       "platform": [
         "web"
       ],
@@ -8157,7 +8180,7 @@
         "gifts"
       ],
       "pricing": "freemium",
-      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "priceNote": "Free for personal use with MiniForge branding, up to 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
       "platform": [
         "web"
       ],
@@ -8182,7 +8205,7 @@
         "gifts"
       ],
       "pricing": "freemium",
-      "priceNote": "Free for personal use with MiniForge branding, up to 10 exports a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
+      "priceNote": "Free for personal use with MiniForge branding, up to 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon adds commercial use, batch export and unlimited exports",
       "platform": [
         "web"
       ],
@@ -8194,6 +8217,52 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-16",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-qr-code-generator",
+      "name": "MiniForge 3D QR Code Generator",
+      "url": "https://tools.miniforge.io/qr-code",
+      "page": "https://skipthecad.com/generators/miniforge-qr-code-generator/",
+      "category": "codes",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use with MiniForge branding, 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon removes the branding, adds batch export and allows commercial use",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-23",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-vase-studio",
+      "name": "MiniForge Vase Studio",
+      "url": "https://tools.miniforge.io/vase-studio",
+      "page": "https://skipthecad.com/generators/miniforge-vase-studio/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use, 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon allows commercial use",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-23",
       "ownedBySite": false
     },
     {
