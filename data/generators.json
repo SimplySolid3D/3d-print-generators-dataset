@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-24",
-  "count": 635,
+  "dateModified": "2026-10-26",
+  "count": 661,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -396,6 +396,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "3d-valley",
+      "name": "3D Valley",
+      "url": "https://3dvalley.com/",
+      "page": "https://skipthecad.com/generators/3d-valley/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free daily allowance per visitor without an account (the limit is not stated); then credits at 1 cent each, packs $15 (1,500), $25 (2,750), $50 (6,000) and $100 (13,000), valid 12 months; image to 3D costs 5 to 100 credits per model",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "3dcityloader",
       "name": "3DCityLoader",
       "url": "https://3dcityloader.com/en",
@@ -752,6 +775,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ai-stl-generator",
+      "name": "AI STL Generator",
+      "url": "https://aistlgenerator.com/",
+      "page": "https://skipthecad.com/generators/ai-stl-generator/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free: 5 check-in credits a day after logging in, Basic model only, non-commercial; Maker $9.99/month (200 credits), Pro $24.99/month (500), yearly $7.99 and $19.99 a month; packs $4.99 (50), $12.99 (200) and $29.99 (500) that never expire",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -3167,6 +3214,54 @@
       "ownedBySite": false
     },
     {
+      "slug": "cuttle-3d-print-templates",
+      "name": "Cuttle 3D Print templates",
+      "url": "https://cuttle.xyz/templates/3d-print",
+      "page": "https://skipthecad.com/generators/cuttle-3d-print-templates/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "gifts",
+        "keychains"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free plan with free templates, 10 downloads a month and 5 editor projects, personal use only; Cuttle Pro $24 a month or $216 a year for all Pro templates, unlimited downloads, own fonts and images and commercial use",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "cylinder-seal-studio",
+      "name": "Cylinder Seal Studio",
+      "url": "https://cylinder-seal-studio.vercel.app/",
+      "page": "https://skipthecad.com/generators/cylinder-seal-studio/",
+      "category": "image-relief",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account, open source",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "d-shaft-knob-generator",
       "name": "D Shaft Knob Generator",
       "url": "https://makerworld.com/en/models/1142338-d-shaft-knob-generator",
@@ -3484,6 +3579,28 @@
       "ownedBySite": false
     },
     {
+      "slug": "drawerforge",
+      "name": "Drawerforge",
+      "url": "https://drawerforge.co.uk/",
+      "page": "https://skipthecad.com/generators/drawerforge/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account; optional Ko-fi tips",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "drywall-anchor-with-opening-wings",
       "name": "Drywall Anchor with Opening Wings",
       "url": "https://makerworld.com/en/models/2440925-drywall-anchor-with-opening-wings",
@@ -3573,6 +3690,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "easytostl",
+      "name": "EasyToSTL",
+      "url": "https://easytostl.com/",
+      "page": "https://skipthecad.com/generators/easytostl/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "Free welcome credits on sign-up, no card (amount not stated); a Standard run costs 15 credits; Pro $19.90/month (500 credits), Max $29.90/month (1,000), yearly 12% off; packs $12.90 (200), $19.90 (400), $32.90 (800) and $39.90 (1,000) that never expire; converters and viewers are free without an account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "ebdesign-wall-plug-generator",
       "name": "Wall Plug Generator (EBdesign)",
       "url": "https://makerworld.com/en/models/2384864-wall-plug-generator",
@@ -3592,6 +3733,28 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "edge-lift-designer",
+      "name": "Edge Lift Designer",
+      "url": "https://erikeppinger.github.io/Edge_Lift_Designer/",
+      "page": "https://skipthecad.com/generators/edge-lift-designer/",
+      "category": "customizers",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account, open source (MIT)",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -4073,6 +4236,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "formo",
+      "name": "Formo",
+      "url": "https://formoapp.com/",
+      "page": "https://skipthecad.com/generators/formo/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "mechanical"
+      ],
+      "pricing": "freemium",
+      "priceNote": "10 free credits on sign-up, 1 credit per generation or edit; $5/month for 75 credits or $10/month for 200, unused credits stay on the account; parametric templates are free without an account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "STEP"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "fractions-made-fun-customizable",
       "name": "Fractions Made Fun (Customizable)",
       "url": "https://makerworld.com/en/models/2550318-fractions-made-fun-customizable",
@@ -4492,6 +4680,31 @@
       "accountRequired": true,
       "openSource": true,
       "verifiedOn": "2026-09-28",
+      "ownedBySite": false
+    },
+    {
+      "slug": "gopuzzlego-jigsaw-puzzle-generator",
+      "name": "GoPuzzleGo Jigsaw Puzzle Generator",
+      "url": "https://gopuzzlego.com/generator",
+      "page": "https://skipthecad.com/generators/gopuzzlego-jigsaw-puzzle-generator/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, no watermark and no limit on templates; the site also sells Premium and coins for its online puzzle game",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG",
+        "PNG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -5598,6 +5811,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "jack-o-gen",
+      "name": "Jack-o-Gen",
+      "url": "https://jack-o-gen.shunyakoide.com/",
+      "page": "https://skipthecad.com/generators/jack-o-gen/",
+      "category": "vases-lamps",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, open source",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "jar-generator",
       "name": "Jar Generator (Fletch)",
       "url": "https://makerworld.com/en/models/1178706-jar-generator",
@@ -6209,6 +6446,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "lampshade-studio",
+      "name": "Lampshade Studio",
+      "url": "https://lampshade-studio.vercel.app/",
+      "page": "https://skipthecad.com/generators/lampshade-studio/",
+      "category": "vases-lamps",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "lapinoo-bricks",
       "name": "Lapinoo LEGO-compatible Bricks Generator",
       "url": "https://bricks.lapinoo.net/",
@@ -6274,6 +6534,34 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "layergen-ai",
+      "name": "LayerGen AI",
+      "url": "https://layergen.ai/",
+      "page": "https://skipthecad.com/generators/layergen-ai/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "puzzles-games"
+      ],
+      "pricing": "freemium",
+      "priceNote": "First HD print free, then 40 credits that refresh to 40 every 30 days (an HD model is 20 credits); $5 pack for 100 credits; Starter $12/month (240), Creator $24/month (600), Pro $39/month (1,100), unused credits roll over up to twice the monthly amount",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB",
+        "FBX",
+        "USDZ"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -6654,6 +6942,49 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "magicfinity",
+      "name": "Magicfinity",
+      "url": "https://magicfinity.com/",
+      "page": "https://skipthecad.com/generators/magicfinity/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account and no download limit",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "mailbox-label-generator",
+      "name": "Mailbox label generator",
+      "url": "https://liyanage.github.io/mailbox-label-3dprint-generator/",
+      "page": "https://skipthecad.com/generators/mailbox-label-generator/",
+      "category": "signs-text",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -8241,6 +8572,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-23",
+      "ownedBySite": false
+    },
+    {
+      "slug": "miniforge-tray-studio",
+      "name": "MiniForge Tray Studio",
+      "url": "https://tools.miniforge.io/tray-studio",
+      "page": "https://skipthecad.com/generators/miniforge-tray-studio/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free for personal use, 5 designs a day with a Google sign-in; the DIAMOND tier on Patreon allows commercial use",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -11108,6 +11463,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "printpal-bobblehead-maker",
+      "name": "PrintPal Bobblehead Maker",
+      "url": "https://printpal.io/",
+      "page": "https://skipthecad.com/generators/printpal-bobblehead-maker/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "ai-3d"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Bobble tools and 3MF or STL export are free; the AI figure from a photo needs a PrintPal account and uses PrintPal AI credits or a plan: Pro $10/month or Studio $25/month",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "printpal-brick-builder",
       "name": "PrintPal 3D Brick Builder",
       "url": "https://printpal.io/tools/brick-builder",
@@ -11151,6 +11530,29 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printpal-fidget-clicker-maker",
+      "name": "PrintPal Fidget Clicker Maker",
+      "url": "https://printpal.io/tools/fidget-clicker-maker",
+      "page": "https://skipthecad.com/generators/printpal-fidget-clicker-maker/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "paid",
+      "priceNote": "Free to design in the browser; exporting the STL parts needs PrintPal Pro ($10 a month) or Studio ($25 a month), with 20% off when billed yearly",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -11219,6 +11621,29 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printpal-mold-box-generator",
+      "name": "PrintPal Mold Box Generator",
+      "url": "https://printpal.io/tools/mold-box-generator",
+      "page": "https://skipthecad.com/generators/printpal-mold-box-generator/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no signup, no watermarks and no limits, according to the page's FAQ",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -11966,6 +12391,51 @@
       "ownedBySite": false
     },
     {
+      "slug": "slanted-gridfinity-bin-generator",
+      "name": "Slanted Gridfinity Bin Generator",
+      "url": "https://formfitprint.com/tools/slanted-gridfinity/app/",
+      "page": "https://skipthecad.com/generators/slanted-gridfinity-bin-generator/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "slanttools",
+      "name": "SlantTools by Slant 3D",
+      "url": "https://create.slant3d.com/",
+      "page": "https://skipthecad.com/generators/slanttools/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "storage",
+        "cookie-cutters"
+      ],
+      "pricing": "free",
+      "priceNote": "Generators are free; the STL download needs a free Google sign-in; printed parts from Slant 3D are quoted per model (our default box was $1.61 in PLA, ships in 3 days)",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "sloyd",
       "name": "Sloyd",
       "url": "https://app.sloyd.ai/",
@@ -12101,6 +12571,28 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "soundblooms-diffuser-generator",
+      "name": "Soundblooms Diffuser Generator",
+      "url": "https://chronosauros.github.io/diffuser-generator/",
+      "page": "https://skipthecad.com/generators/soundblooms-diffuser-generator/",
+      "category": "customizers",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account, open source (GPL-3.0)",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -12581,6 +13073,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "stl-studio",
+      "name": "STL Studio",
+      "url": "https://stlstudio.io/",
+      "page": "https://skipthecad.com/generators/stl-studio/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "paid",
+      "priceNote": "Free account but no free credits; one-time 300-credit starter pack for $4.99 for new members; plans $10/month (300 credits), $20/month (800) and $50/month (2,500); packs $40 (850), $75 (1,900) and $150 (4,200) that never expire; a run costs 20 to 80 credits",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "stl-text",
       "name": "STL Text",
       "url": "https://stltext.com/",
@@ -12669,6 +13184,49 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-06",
+      "ownedBySite": false
+    },
+    {
+      "slug": "storeforge",
+      "name": "StoreForge",
+      "url": "https://storeforge.jaak0b.at/",
+      "page": "https://skipthecad.com/generators/storeforge/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "storehouse-bin-builder",
+      "name": "Storehouse Bin Builder",
+      "url": "https://philhoyt.github.io/Storehouse-Bin-Generator/",
+      "page": "https://skipthecad.com/generators/storehouse-bin-builder/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
       "ownedBySite": false
     },
     {
@@ -13396,6 +13954,27 @@
       "ownedBySite": false
     },
     {
+      "slug": "torque-screw-generator",
+      "name": "Torque",
+      "url": "https://elvisoliveira.github.io/torque/",
+      "page": "https://skipthecad.com/generators/torque-screw-generator/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "touch-mapper",
       "name": "Touch Mapper",
       "url": "https://touch-mapper.org/en/",
@@ -13913,6 +14492,29 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "upagents-lithophane-maker",
+      "name": "UpAgents Lithophane Maker",
+      "url": "https://upagents.app/tools/lithophane-maker",
+      "page": "https://skipthecad.com/generators/upagents-lithophane-maker/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account, no watermark and no limit. UpAgents' AI agents are paid with credits, but this tool is not one of them.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-26",
       "ownedBySite": false
     },
     {
