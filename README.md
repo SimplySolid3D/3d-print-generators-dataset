@@ -1,26 +1,26 @@
 # No-CAD 3D print generators: open dataset
 
-661 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+663 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-10-26
+- **Last check of any listing:** 2026-10-27
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 508 | 77% |
-| Freemium | 114 | 17% |
+| Free | 509 | 77% |
+| Freemium | 115 | 17% |
 | Paid | 39 | 6% |
-| Runs in a browser | 464 | 70% |
-| Exports STL | 583 | 88% |
+| Runs in a browser | 466 | 70% |
+| Exports STL | 585 | 88% |
 | Exports 3MF | 409 | 62% |
 | Multicolor | 225 | 34% |
-| No account needed | 343 | 52% |
+| No account needed | 344 | 52% |
 | Open source | 120 | 18% |
 
 More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/).
@@ -37,10 +37,10 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 23 |
 | [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 38 |
 | [AI to 3D](https://skipthecad.com/category/ai-3d/) | 48 |
-| [Image to Relief](https://skipthecad.com/category/image-relief/) | 36 |
+| [Image to Relief](https://skipthecad.com/category/image-relief/) | 37 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 18 |
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 36 |
-| [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 102 |
+| [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 103 |
 | [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 58 |
 | [Customizers](https://skipthecad.com/category/customizers/) | 32 |
 | [Gifts](https://skipthecad.com/category/gifts/) | 45 |

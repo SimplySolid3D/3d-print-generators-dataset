@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-26",
-  "count": 661,
+  "dateModified": "2026-10-27",
+  "count": 663,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -4680,6 +4680,29 @@
       "accountRequired": true,
       "openSource": true,
       "verifiedOn": "2026-09-28",
+      "ownedBySite": false
+    },
+    {
+      "slug": "glintmake-image-to-stl",
+      "name": "Glintmake Image to STL Converter",
+      "url": "https://glintmake.com/image-to-stl/?utm_source=skipthecad&utm_medium=directory&utm_campaign=backlinks",
+      "page": "https://skipthecad.com/generators/glintmake-image-to-stl/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "lithophanes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no sign-up and no limit. Other Glintmake tools sell one-off packs, but this one does not.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-26",
       "ownedBySite": false
     },
     {
@@ -15415,6 +15438,29 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "zz-mesh",
+      "name": "ZZ Mesh",
+      "url": "https://zz-mesh.com/",
+      "page": "https://skipthecad.com/generators/zz-mesh/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free plan: 30 credits to start, then 5 a month, models up to 600,000 triangles and 30 MB. Maker is $4.99 a month (listed as down from $5.99) with 300 credits, models up to 2 million triangles, and 3MF to Parts, STL repair, piggy banks and figure bases; the free account includes one piggy bank.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-27",
       "ownedBySite": false
     }
   ]
