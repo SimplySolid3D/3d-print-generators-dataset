@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-27",
-  "count": 663,
+  "dateModified": "2026-10-29",
+  "count": 666,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -6830,6 +6830,34 @@
       "ownedBySite": false
     },
     {
+      "slug": "lovcad",
+      "name": "Lovcad",
+      "url": "https://lovcad.com/",
+      "page": "https://skipthecad.com/generators/lovcad/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "ai-3d"
+      ],
+      "pricing": "freemium",
+      "priceNote": "New accounts get 100 permanent credits after email verification. Plans: Starter $20/month (2,000 credits), Pro $50, Studio $80, Max $120; one-time packs from $25 for 2,000 credits. Credits pay for AI requests, not a fixed number of models.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STEP",
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-28",
+      "ownedBySite": false
+    },
+    {
       "slug": "lucentlitho",
       "name": "LucentLitho",
       "url": "https://lucentlitho.web.app/",
@@ -8641,6 +8669,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-23",
+      "ownedBySite": false
+    },
+    {
+      "slug": "minimarbleruns",
+      "name": "MiniMarbleRuns",
+      "url": "https://minimarbleruns.com/",
+      "page": "https://skipthecad.com/generators/minimarbleruns/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free with no account: every run style and shape, the simulator and STL download. Pro is $12 once for multicolor 3MF, a ZIP of parts, 2 to 4 racing lanes, tube tracks and label text. Commercial is $25 a year to sell prints.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-29",
       "ownedBySite": false
     },
     {
@@ -13584,10 +13636,11 @@
       "page": "https://skipthecad.com/generators/terraprinter/",
       "category": "maps-terrain",
       "secondaryCategories": [
-        "puzzles-games"
+        "puzzles-games",
+        "gifts"
       ],
       "pricing": "free",
-      "priceNote": "Free, no paywalled exports; donations via Buy Me a Coffee.",
+      "priceNote": "Free to make and download for personal use, gifts, schools and non-profits, with no account. From 1 November 2026, selling needs a yearly license: Maker $50 (up to $5,000 a year in sales), Shop $150 (up to $50,000) or Business $400 (unlimited). Files downloaded before 1 November 2026 keep their free commercial license.",
       "platform": [
         "web"
       ],
@@ -13595,12 +13648,38 @@
         "STL",
         "3MF",
         "OBJ",
-        "GLB"
+        "GLB",
+        "SVG"
       ],
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-25",
+      "verifiedOn": "2026-10-29",
+      "ownedBySite": false
+    },
+    {
+      "slug": "terrapuzzle",
+      "name": "TerraPuzzle",
+      "url": "https://terrapuzzle.com/",
+      "page": "https://skipthecad.com/generators/terrapuzzle/",
+      "category": "puzzles-games",
+      "secondaryCategories": [
+        "maps-terrain",
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account. The site has no pricing or license page; its sister site TerraPrinter needs a paid license for selling from 1 November 2026.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-29",
       "ownedBySite": false
     },
     {
