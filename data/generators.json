@@ -6,7 +6,7 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-29",
+  "dateModified": "2026-10-30",
   "count": 666,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
@@ -5854,7 +5854,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": true,
-      "verifiedOn": "2026-10-25",
+      "verifiedOn": "2026-10-30",
       "ownedBySite": false
     },
     {
@@ -9792,7 +9792,7 @@
         "gifts"
       ],
       "pricing": "freemium",
-      "priceNote": "Generating and 3D preview are free, no account. Downloads need a plan: Plus $9.99 a month or $79 a year for unlimited downloads for personal use and gifts; Merchant $14.99 a month or $119 a year adds the right to sell prints. The campaign's one-time lifetime passes are still on sale as a MakerWorld late pledge.",
+      "priceNote": "Generating and 3D preview are free, no account. Downloads: one model for $4.99 (STL and multicolor 3MF, personal use), or Plus $9.99 a month or $79 a year for unlimited downloads for personal use and gifts; Merchant $14.99 a month or $119 a year adds the right to sell prints. The campaign's one-time lifetime passes are still on sale as a MakerWorld late pledge.",
       "platform": [
         "web"
       ],
@@ -9803,7 +9803,7 @@
       "multicolor": true,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-29",
       "ownedBySite": true
     },
     {
@@ -9816,7 +9816,7 @@
         "maps-terrain"
       ],
       "pricing": "freemium",
-      "priceNote": "The STL is free and needs no account. The multicolor 3MF costs one download credit per chart, which also covers its desk stand; Plus ($9.99 a month or $79 a year) includes unlimited star map 3MFs.",
+      "priceNote": "The STL is free and needs no account. The multicolor 3MF of one chart, desk stand included, costs $3 one time (making the same chart again downloads free); Plus ($9.99 a month or $79 a year) includes unlimited star map 3MFs.",
       "platform": [
         "web"
       ],
@@ -9827,7 +9827,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-29",
       "ownedBySite": true
     },
     {
@@ -11835,7 +11835,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-10-29",
       "ownedBySite": false
     },
     {
