@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-30",
-  "count": 666,
+  "dateModified": "2026-10-31",
+  "count": 668,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -3332,6 +3332,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "design-a-sign",
+      "name": "Design a Sign",
+      "url": "https://designasign.co/",
+      "page": "https://skipthecad.com/generators/design-a-sign/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "Designing is free with no account. Files are paid per design: 3MF $5.00, SVG $0.99. A printed and shipped PETG sign starts at $19.99 to $24.99 plus shipping, depending on size.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-31",
+      "ownedBySite": false
+    },
+    {
       "slug": "designer-bee-box-generator",
       "name": "Designer Bee Box Generator",
       "url": "https://designerbee.build/",
@@ -4167,6 +4191,27 @@
       "ownedBySite": false
     },
     {
+      "slug": "focus-rings",
+      "name": "Focus Rings",
+      "url": "https://focusrings.at/free-focus-ring",
+      "page": "https://skipthecad.com/generators/focus-rings/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "The plain focus ring STL is free with no account or email; so are the Canon EF rear cap and a blank lens cap. Clamp rings and hard-stop rings are €14.90 (one Premium price for both options), and the other cap generators are paid.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-31",
+      "ownedBySite": false
+    },
+    {
       "slug": "follow-your-focus",
       "name": "Follow Your Focus",
       "url": "https://www.followyourfocus.xyz/",
@@ -4702,7 +4747,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-10-30",
       "ownedBySite": false
     },
     {
