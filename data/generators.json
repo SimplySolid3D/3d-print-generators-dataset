@@ -7,7 +7,7 @@
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
   "dateModified": "2026-10-31",
-  "count": 668,
+  "count": 670,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -702,6 +702,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "3dprintgenerator",
+      "name": "3D Print Generator",
+      "url": "https://3dprintgenerator.com/",
+      "page": "https://skipthecad.com/generators/3dprintgenerator/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "boxes",
+        "mechanical"
+      ],
+      "pricing": "paid",
+      "priceNote": "Designing and preview are free. STL export needs a Google sign-in and credits from one-time packs: $14.99 for 300, $34.99 for 1,000, $79.99 for 2,500. 1 credit per STL export, 30 per Text to CAD generation; credits never expire.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-10-31",
       "ownedBySite": false
     },
     {
@@ -5432,6 +5456,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "hypsos",
+      "name": "Hypsos",
+      "url": "https://hypsos3d.com/",
+      "page": "https://skipthecad.com/generators/hypsos/",
+      "category": "maps-terrain",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account and no paid tier; donations through Buy Me a Coffee.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-10-31",
       "ownedBySite": false
     },
     {
