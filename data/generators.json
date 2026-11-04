@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-10-31",
-  "count": 670,
+  "dateModified": "2026-11-04",
+  "count": 673,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -8068,7 +8068,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-09-26",
+      "verifiedOn": "2026-11-03",
       "ownedBySite": false
     },
     {
@@ -8977,6 +8977,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "modelador3d-snapframe",
+      "name": "Modelador 3D SnapFrame Picture Frame Generator",
+      "url": "https://modelador3d.com.br/personalizador/moldura-quadro",
+      "page": "https://skipthecad.com/generators/modelador3d-snapframe/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and verified email signup",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "STEP"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-04",
+      "ownedBySite": false
+    },
+    {
       "slug": "modelador3d-stl-texturizer",
       "name": "Modelador 3D STL Texturizer",
       "url": "https://modelador3d.com.br/texturizar",
@@ -8998,6 +9022,29 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-two-part-mold",
+      "name": "Modelador 3D Two-Part Mold Generator",
+      "url": "https://modelador3d.com.br/personalizador/molde-bipartido",
+      "page": "https://skipthecad.com/generators/modelador3d-two-part-mold/",
+      "category": "mechanical",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and verified email signup",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-04",
       "ownedBySite": false
     },
     {
@@ -13874,6 +13921,28 @@
       "ownedBySite": false
     },
     {
+      "slug": "texttostl-net",
+      "name": "Text to STL (texttostl.net)",
+      "url": "https://texttostl.net/",
+      "page": "https://skipthecad.com/generators/texttostl-net/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "20 free welcome credits on the first sign-in (about 2 generations at 10 credits each). One-time packs: $9.90 for 100 credits, $19.90 for 300, $39.90 for 700, $69.90 for 1,400, $99.90 for 2,200; purchased credits don't expire.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-03",
+      "ownedBySite": false
+    },
+    {
       "slug": "the-terrainator",
       "name": "The Terrainator",
       "url": "https://terrainator.com/",
@@ -14166,7 +14235,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-25",
+      "verifiedOn": "2026-11-03",
       "ownedBySite": false
     },
     {
