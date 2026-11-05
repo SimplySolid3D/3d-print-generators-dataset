@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-04",
-  "count": 673,
+  "dateModified": "2026-11-05",
+  "count": 675,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -5667,6 +5667,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "imageto3dlab",
+      "name": "ImageTo3DLab",
+      "url": "https://imageto3dlab.com/convert/image-to-3mf",
+      "page": "https://skipthecad.com/generators/imageto3dlab/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free account: 1 download a day, up to 2 color layers, personal use only. One-time: Starter $4.99 for 20 exports, Lifetime $29, Commercial Seller $59. The 3MF and STL converters are free with no account.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF",
+        "STL"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-05",
       "ownedBySite": false
     },
     {
@@ -12095,6 +12119,30 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "quady3d",
+      "name": "Quady3D",
+      "url": "https://quady3d.com/",
+      "page": "https://skipthecad.com/generators/quady3d/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "30 free credits once after email verification, for previewing. Downloads need credits: packs of 200 for $9.99, 1,500 for $29.99, 3,000 for $57.99 or 5,000 for $94.99, or a monthly plan from about $12 (less when billed yearly).",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "OBJ",
+        "GLB",
+        "FBX"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-05",
       "ownedBySite": false
     },
     {

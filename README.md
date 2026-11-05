@@ -1,25 +1,25 @@
 # No-CAD 3D print generators: open dataset
 
-673 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+675 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-11-04
+- **Last check of any listing:** 2026-11-05
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
 | Free | 513 | 76% |
-| Freemium | 119 | 18% |
+| Freemium | 121 | 18% |
 | Paid | 41 | 6% |
-| Runs in a browser | 476 | 71% |
-| Exports STL | 594 | 88% |
-| Exports 3MF | 414 | 62% |
-| Multicolor | 229 | 34% |
+| Runs in a browser | 478 | 71% |
+| Exports STL | 596 | 88% |
+| Exports 3MF | 415 | 61% |
+| Multicolor | 230 | 34% |
 | No account needed | 349 | 52% |
 | Open source | 120 | 18% |
 
@@ -36,8 +36,8 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [Keychains](https://skipthecad.com/category/keychains/) | 30 |
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 23 |
 | [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 39 |
-| [AI to 3D](https://skipthecad.com/category/ai-3d/) | 49 |
-| [Image to Relief](https://skipthecad.com/category/image-relief/) | 37 |
+| [AI to 3D](https://skipthecad.com/category/ai-3d/) | 50 |
+| [Image to Relief](https://skipthecad.com/category/image-relief/) | 38 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 18 |
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 36 |
 | [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 106 |
