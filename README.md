@@ -1,6 +1,6 @@
 # No-CAD 3D print generators: open dataset
 
-675 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+677 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
@@ -13,15 +13,15 @@ Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.co
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 513 | 76% |
+| Free | 515 | 76% |
 | Freemium | 121 | 18% |
 | Paid | 41 | 6% |
-| Runs in a browser | 478 | 71% |
-| Exports STL | 596 | 88% |
-| Exports 3MF | 415 | 61% |
-| Multicolor | 230 | 34% |
-| No account needed | 349 | 52% |
-| Open source | 120 | 18% |
+| Runs in a browser | 480 | 71% |
+| Exports STL | 598 | 88% |
+| Exports 3MF | 416 | 61% |
+| Multicolor | 231 | 34% |
+| No account needed | 351 | 52% |
+| Open source | 121 | 18% |
 
 More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/).
 
@@ -40,9 +40,9 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [Image to Relief](https://skipthecad.com/category/image-relief/) | 38 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 18 |
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 36 |
-| [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 106 |
+| [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 107 |
 | [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 60 |
-| [Customizers](https://skipthecad.com/category/customizers/) | 33 |
+| [Customizers](https://skipthecad.com/category/customizers/) | 34 |
 | [Gifts](https://skipthecad.com/category/gifts/) | 46 |
 
 Counted by primary category; tools can also appear in up to three other categories (`secondaryCategories`).

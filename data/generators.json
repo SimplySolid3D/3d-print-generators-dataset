@@ -7,7 +7,7 @@
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
   "dateModified": "2026-11-05",
-  "count": 675,
+  "count": 677,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -4488,6 +4488,29 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-04",
+      "ownedBySite": false
+    },
+    {
+      "slug": "geargen-3d",
+      "name": "GearGen-3D",
+      "url": "https://jb07-198.github.io/GearGen-3D/",
+      "page": "https://skipthecad.com/generators/geargen-3d/",
+      "category": "mechanical",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free and open source (MIT), no account.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "STEP",
+        "SVG"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-11-05",
       "ownedBySite": false
     },
     {
@@ -11362,6 +11385,32 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printaro-tools",
+      "name": "Printaro Tools",
+      "url": "https://printaro-tools.com/",
+      "page": "https://skipthecad.com/generators/printaro-tools/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "gifts",
+        "storage",
+        "mechanical"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with no account; donations through Ko-fi. Printaro also sells custom prints.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-05",
       "ownedBySite": false
     },
     {
