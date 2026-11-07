@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-05",
-  "count": 677,
+  "dateModified": "2026-11-07",
+  "count": 680,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -7157,6 +7157,29 @@
       "ownedBySite": false
     },
     {
+      "slug": "magnet-maker-3d",
+      "name": "Magnet Maker 3D",
+      "url": "https://magnetmaker3d.com/",
+      "page": "https://skipthecad.com/generators/magnet-maker-3d/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with no account; the site earns from Amazon affiliate links for magnets and filament",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-07",
+      "ownedBySite": false
+    },
+    {
       "slug": "mailbox-label-generator",
       "name": "Mailbox label generator",
       "url": "https://liyanage.github.io/mailbox-label-3dprint-generator/",
@@ -8821,7 +8844,7 @@
         "gifts"
       ],
       "pricing": "freemium",
-      "priceNote": "Free with no account: every run style and shape, the simulator and STL download. Pro is $12 once for multicolor 3MF, a ZIP of parts, 2 to 4 racing lanes, tube tracks and label text. Commercial is $25 a year to sell prints.",
+      "priceNote": "Free with no account: every run style, the simulator and an STL with MiniMarbleRuns.com on the base. Pro is $49 once for unlimited clean STL downloads, multicolor 3MF, a ZIP of parts, 2 to 4 racing lanes, tube tracks and label text. Commercial is $499 a year to sell prints.",
       "platform": [
         "web"
       ],
@@ -8832,7 +8855,7 @@
       "multicolor": true,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-29",
+      "verifiedOn": "2026-11-06",
       "ownedBySite": false
     },
     {
@@ -9655,6 +9678,27 @@
       "ownedBySite": false
     },
     {
+      "slug": "oakleaf3d",
+      "name": "oakleaf3d",
+      "url": "https://oakleaf3d.com/",
+      "page": "https://skipthecad.com/generators/oakleaf3d/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "freemium",
+      "priceNote": "3 free credits on sign-up plus 1 to 3 per daily check-in (expire after 30 days); a Basic model costs 2 credits, Pro 25 and Ultra 35. Credit packs from $9.90 for 200 credits; subscriptions $10, $19 or $39 a month.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-07",
+      "ownedBySite": false
+    },
+    {
       "slug": "obloid-hinged-box-generator",
       "name": "Obloid Hinged Box Generator",
       "url": "https://obloid.app/tools/hinged-box",
@@ -10039,6 +10083,29 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "ornament-creator",
+      "name": "Ornament Creator",
+      "url": "https://ornamentcreator.com/",
+      "page": "https://skipthecad.com/generators/ornament-creator/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "paid",
+      "priceNote": "Designing is free with no account. The STL costs $3 per design; a printed ornament shipped to the US costs $15 including shipping. The first 25 testers get a free STL.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-06",
       "ownedBySite": false
     },
     {
