@@ -6,7 +6,7 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-07",
+  "dateModified": "2026-11-08",
   "count": 680,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
@@ -15159,7 +15159,7 @@
       "category": "vases-lamps",
       "secondaryCategories": [],
       "pricing": "freemium",
-      "priceNote": "Free beta for the core editor and exports without premium features; Pro (premium exports) and Commercial (selling) plans are unlocked by code for now, no public prices yet",
+      "priceNote": "Free during the beta: export is free for everyone, premium features included (November 2026). Pro (premium exports) and Commercial (selling) plans exist in the terms, no public prices yet",
       "platform": [
         "web"
       ],
@@ -15169,7 +15169,7 @@
       "multicolor": false,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-20",
+      "verifiedOn": "2026-11-08",
       "ownedBySite": false
     },
     {
