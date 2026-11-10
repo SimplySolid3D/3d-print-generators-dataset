@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-08",
-  "count": 680,
+  "dateModified": "2026-11-09",
+  "count": 682,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -4034,6 +4034,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "faceto3d",
+      "name": "FaceTo3D",
+      "url": "https://faceto3d.com/",
+      "page": "https://skipthecad.com/generators/faceto3d/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "No free 3D model: sign-up credits only cover a face swap. Each model costs 30 credits; packs are $4.90 for 30 credits (1 model), $19.90 for 300 and $49.90 for 1,200, valid for a year. Monthly and yearly plans are also offered.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-09",
+      "ownedBySite": false
+    },
+    {
       "slug": "faraday-enclosure-generator",
       "name": "Faraday Enclosure Generator",
       "url": "https://faraday.d3frag.net/",
@@ -5831,6 +5856,29 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
+      "slug": "infillery",
+      "name": "Infillery Keyring Builder",
+      "url": "https://infillery.com/",
+      "page": "https://skipthecad.com/generators/infillery/",
+      "category": "keychains",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Designing is free without an account. A free account includes 3 print files and 10 AI credits to start, for personal use. Maker is £9.99 a month (100 files a month, selling allowed, own shop); Maker Pro £24.99 a month (300 files).",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-09",
       "ownedBySite": false
     },
     {
