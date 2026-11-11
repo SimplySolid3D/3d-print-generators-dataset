@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-09",
-  "count": 682,
+  "dateModified": "2026-11-11",
+  "count": 686,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -9023,6 +9023,27 @@
       "ownedBySite": false
     },
     {
+      "slug": "modelador3d-modular-organizer",
+      "name": "Modelador 3D Modular Organizer Generator",
+      "url": "https://modelador3d.com.br/personalizador/organizador-modular",
+      "page": "https://skipthecad.com/generators/modelador3d-modular-organizer/",
+      "category": "storage",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and verified email signup; printed parts can be ordered in Brazil from R$ 123.89 plus shipping",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-11",
+      "ownedBySite": false
+    },
+    {
       "slug": "modelador3d-name-string-art",
       "name": "Modelador 3D Name String Art Generator",
       "url": "https://modelador3d.com.br/personalizador/string-art",
@@ -9140,6 +9161,29 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-trophy-medal",
+      "name": "Modelador 3D Trophy & Medal Generator",
+      "url": "https://modelador3d.com.br/personalizador/trofeu",
+      "page": "https://skipthecad.com/generators/modelador3d-trophy-medal/",
+      "category": "gifts",
+      "secondaryCategories": [
+        "signs-text"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and verified email signup; optional donations",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-11",
       "ownedBySite": false
     },
     {
@@ -13588,6 +13632,54 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stlsplitter-image-to-stl",
+      "name": "STL Splitter Image to STL",
+      "url": "https://stlsplitter.com/image-to-stl",
+      "page": "https://skipthecad.com/generators/stlsplitter-image-to-stl/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "lithophanes"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with no account; the image never leaves your browser",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stlsplitter-text-to-stl",
+      "name": "STL Splitter Text to STL",
+      "url": "https://stlsplitter.com/text-to-stl",
+      "page": "https://skipthecad.com/generators/stlsplitter-text-to-stl/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "keychains"
+      ],
+      "pricing": "free",
+      "priceNote": "Free with no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-10",
       "ownedBySite": false
     },
     {
