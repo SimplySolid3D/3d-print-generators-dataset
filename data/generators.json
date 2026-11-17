@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-15",
-  "count": 688,
+  "dateModified": "2026-11-16",
+  "count": 690,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -5412,6 +5412,31 @@
       "ownedBySite": false
     },
     {
+      "slug": "hooray3d",
+      "name": "Hooray3D",
+      "url": "https://hooray3d.com/",
+      "page": "https://skipthecad.com/generators/hooray3d/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "Two free previews a day without an account, but no free downloads. One model costs $4.99; a 100-credit pack $12.90 (Standard 2 credits, figurine 3); plans $9.90, $19.90 or $49.90 a month.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-16",
+      "ownedBySite": false
+    },
+    {
       "slug": "house-office-number-plate-generator",
       "name": "House / Office Number Plate Generator",
       "url": "https://makerworld.com/en/models/1284229-house-office-number-plate-generator",
@@ -5691,6 +5716,30 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-23",
+      "ownedBySite": false
+    },
+    {
+      "slug": "image3d",
+      "name": "Image3D",
+      "url": "https://image3d.io/",
+      "page": "https://skipthecad.com/generators/image3d/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "paid",
+      "priceNote": "No free credits. Maker is $9.99 once for 1,000 credits (Standard 10 and Pro 100 credits per model, no Ultra); Creator $39.99 a month and Power $89.99 a month add Ultra (350 credits per model).",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "GLB",
+        "OBJ",
+        "PLY"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-16",
       "ownedBySite": false
     },
     {
