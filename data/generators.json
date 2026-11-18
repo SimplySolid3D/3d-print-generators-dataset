@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-16",
-  "count": 690,
+  "dateModified": "2026-11-17",
+  "count": 691,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -9184,6 +9184,29 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-18",
+      "ownedBySite": false
+    },
+    {
+      "slug": "modelador3d-rotary-stamp",
+      "name": "Modelador 3D Marker-fed Rotary Stamp Generator",
+      "url": "https://modelador3d.com.br/personalizador/carimbo-rotativo",
+      "page": "https://skipthecad.com/generators/modelador3d-rotary-stamp/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "customizers"
+      ],
+      "pricing": "free",
+      "priceNote": "Free downloads after a first name and verified email signup, for personal use; a commercial license costs R$ 50 to R$ 300",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-17",
       "ownedBySite": false
     },
     {
