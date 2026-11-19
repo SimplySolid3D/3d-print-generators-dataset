@@ -1,25 +1,25 @@
 # No-CAD 3D print generators: open dataset
 
-691 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+692 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-11-17
+- **Last check of any listing:** 2026-11-18
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 522 | 76% |
-| Freemium | 124 | 18% |
+| Free | 522 | 75% |
+| Freemium | 125 | 18% |
 | Paid | 45 | 7% |
-| Runs in a browser | 494 | 71% |
-| Exports STL | 610 | 88% |
-| Exports 3MF | 421 | 61% |
-| Multicolor | 234 | 34% |
+| Runs in a browser | 495 | 72% |
+| Exports STL | 611 | 88% |
+| Exports 3MF | 422 | 61% |
+| Multicolor | 235 | 34% |
 | No account needed | 357 | 52% |
 | Open source | 122 | 18% |
 
@@ -39,7 +39,7 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [AI to 3D](https://skipthecad.com/category/ai-3d/) | 55 |
 | [Image to Relief](https://skipthecad.com/category/image-relief/) | 40 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 18 |
-| [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 36 |
+| [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 37 |
 | [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 107 |
 | [Puzzles & Games](https://skipthecad.com/category/puzzles-games/) | 60 |
 | [Customizers](https://skipthecad.com/category/customizers/) | 34 |
