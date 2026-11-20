@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-18",
-  "count": 692,
+  "dateModified": "2026-11-20",
+  "count": 693,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -1448,7 +1448,7 @@
       "multicolor": false,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-10-23",
+      "verifiedOn": "2026-11-20",
       "ownedBySite": false
     },
     {
@@ -5884,6 +5884,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-10-03",
+      "ownedBySite": false
+    },
+    {
+      "slug": "img2stl-org",
+      "name": "Img2STL Image to STL Converter",
+      "url": "https://img2stl.org/",
+      "page": "https://skipthecad.com/generators/img2stl-org/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "lithophanes",
+        "ai-3d"
+      ],
+      "pricing": "paid",
+      "priceNote": "Preview free without an account; any download needs a sign-in plus credits or a plan. Credit packs from about $2.99 (40 credits), plans from about $14.99 a month; AI models cost 10 to 80 credits.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-19",
       "ownedBySite": false
     },
     {
@@ -12462,13 +12486,12 @@
       "outputs": [
         "STL",
         "OBJ",
-        "GLB",
-        "FBX"
+        "GLB"
       ],
       "multicolor": false,
       "accountRequired": true,
       "openSource": false,
-      "verifiedOn": "2026-11-05",
+      "verifiedOn": "2026-11-20",
       "ownedBySite": false
     },
     {
