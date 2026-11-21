@@ -7,7 +7,7 @@
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
   "dateModified": "2026-11-20",
-  "count": 693,
+  "count": 695,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -2072,6 +2072,31 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "coindesign",
+      "name": "CoinDesign",
+      "url": "https://coindesign.online/",
+      "page": "https://skipthecad.com/generators/coindesign/",
+      "category": "image-relief",
+      "secondaryCategories": [
+        "gifts",
+        "keychains"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Free plan: 5 designs and 10 STL plus 10 GLB downloads a month. One-time plans of $4.90, $9.90 or $19.90 add 30 days of unlimited downloads and more designs.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "GLB"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-20",
       "ownedBySite": false
     },
     {
@@ -10970,6 +10995,29 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "parametric-rugged-box",
+      "name": "Parametric Rugged Box (Parra0713)",
+      "url": "https://parra0713.github.io/parametric-rugged-box/",
+      "page": "https://skipthecad.com/generators/parametric-rugged-box/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free and open source (MIT), no account",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": true,
+      "verifiedOn": "2026-11-20",
       "ownedBySite": false
     },
     {
