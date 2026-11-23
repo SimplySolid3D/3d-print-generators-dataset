@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-22",
-  "count": 696,
+  "dateModified": "2026-11-23",
+  "count": 699,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -3517,6 +3517,29 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "diateh-gen",
+      "name": "DIATEH GEN",
+      "url": "https://gen.diateh.hr/",
+      "page": "https://skipthecad.com/generators/diateh-gen/",
+      "category": "vases-lamps",
+      "secondaryCategories": [
+        "image-relief"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account needed.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-23",
       "ownedBySite": false
     },
     {
@@ -9796,6 +9819,32 @@
       "ownedBySite": false
     },
     {
+      "slug": "nameplate-generator",
+      "name": "Nameplate Generator",
+      "url": "https://nameplategenerator.com/",
+      "page": "https://skipthecad.com/generators/nameplate-generator/",
+      "category": "signs-text",
+      "secondaryCategories": [
+        "keychains",
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Design free without an account; three single-color STL downloads a day when signed in. Pro Lifetime $12.99 once; Seller $9 a month or $79 a year.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "SVG"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-23",
+      "ownedBySite": false
+    },
+    {
       "slug": "nametag-studio-minecraft-style",
       "name": "Nametag Studio (Minecraft-style nametags)",
       "url": "https://mrtheshy.github.io/minecraft-nametag-generator/",
@@ -12866,6 +12915,29 @@
       "accountRequired": false,
       "openSource": true,
       "verifiedOn": "2026-10-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "shadow-lamp-generator",
+      "name": "Shadow Lamp Generator",
+      "url": "https://shadowlampgenerator.com/",
+      "page": "https://skipthecad.com/generators/shadow-lamp-generator/",
+      "category": "vases-lamps",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Design and preview free without an account; one free download a day when signed in. Credits from $2.99 (5 credits); Pro $7.99 a month or $49 a year.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-23",
       "ownedBySite": false
     },
     {
