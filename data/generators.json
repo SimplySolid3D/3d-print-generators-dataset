@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-23",
-  "count": 699,
+  "dateModified": "2026-11-25",
+  "count": 705,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -2026,6 +2026,28 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "cmykforge",
+      "name": "CMYKForge Standard",
+      "url": "https://cmykforge.org/standard.html",
+      "page": "https://skipthecad.com/generators/cmykforge/",
+      "category": "image-relief",
+      "secondaryCategories": [],
+      "pricing": "paid",
+      "priceNote": "One-time license: Personal $35, Digital $70, Commercial $199 (Black Friday sale through Dec 1, 2026: $30 and $60). No free trial; all sales final.",
+      "platform": [
+        "windows",
+        "mac"
+      ],
+      "outputs": [
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-24",
       "ownedBySite": false
     },
     {
@@ -9362,7 +9384,7 @@
         "image-relief"
       ],
       "pricing": "free",
-      "priceNote": "Free downloads during the beta; the maker plans R$1.90 per texture applied at download later (Oct 2026). Account requirements for this tool were not confirmed.",
+      "priceNote": "Free: viewer, settings and STL or 3MF download, with no subscription, credits or per-texture charge (Nov 2026).",
       "platform": [
         "web"
       ],
@@ -9373,7 +9395,7 @@
       "multicolor": false,
       "accountRequired": false,
       "openSource": false,
-      "verifiedOn": "2026-10-18",
+      "verifiedOn": "2026-11-24",
       "ownedBySite": false
     },
     {
@@ -9982,6 +10004,30 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
+      "ownedBySite": false
+    },
+    {
+      "slug": "northgable-lithophane-maker",
+      "name": "Lithophane Maker by Northgable",
+      "url": "https://apps.microsoft.com/detail/9MVQBMZV8RHF",
+      "page": "https://skipthecad.com/generators/northgable-lithophane-maker/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Flat plates free. Pro is a one-time in-app purchase in the Microsoft Store, USD 9.99 according to the maker.",
+      "platform": [
+        "windows"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-24",
       "ownedBySite": false
     },
     {
@@ -12028,6 +12074,101 @@
       "ownedBySite": false
     },
     {
+      "slug": "printooly",
+      "name": "Printooly",
+      "url": "https://www.printooly.com/",
+      "page": "https://skipthecad.com/generators/printooly/",
+      "category": "customizers",
+      "secondaryCategories": [
+        "ai-3d",
+        "cookie-cutters",
+        "lithophanes"
+      ],
+      "pricing": "freemium",
+      "priceNote": "Many tools free with no credits. AI tools use credits: 100 free on sign-up (free balances refill to 100 monthly), then one-time packs of 100 for EUR 4.99, 200 for EUR 8.99, 400 for EUR 15.99 or 1,000 for EUR 37.99, bought inside the modules.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": true,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printooly-cookie-studio",
+      "name": "Printooly Cookie Studio",
+      "url": "https://www.printooly.com/",
+      "page": "https://skipthecad.com/generators/printooly-cookie-studio/",
+      "category": "cookie-cutters",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no credits.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printooly-hinged-boxes",
+      "name": "Printooly Hinged Boxes",
+      "url": "https://www.printooly.com/",
+      "page": "https://skipthecad.com/generators/printooly-hinged-boxes/",
+      "category": "boxes",
+      "secondaryCategories": [
+        "storage"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no credits.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "printooly-lithophane",
+      "name": "Printooly Lithophane",
+      "url": "https://www.printooly.com/modules/lithophane/en/",
+      "page": "https://skipthecad.com/generators/printooly-lithophane/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no sign-up, no watermark.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-25",
+      "ownedBySite": false
+    },
+    {
       "slug": "printpal",
       "name": "PrintPal",
       "url": "https://printpal.io/",
@@ -13944,6 +14085,30 @@
       "ownedBySite": false
     },
     {
+      "slug": "stlpal-lithophane-maker",
+      "name": "STLPal Lithophane Maker",
+      "url": "https://stlpal.com/lithophane-maker/",
+      "page": "https://skipthecad.com/generators/stlpal-lithophane-maker/",
+      "category": "lithophanes",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "free",
+      "priceNote": "Free, no account; the site shows ads.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "3MF"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-24",
+      "ownedBySite": false
+    },
+    {
       "slug": "stlsplitter-image-to-stl",
       "name": "STL Splitter Image to STL",
       "url": "https://stlsplitter.com/image-to-stl",
@@ -15369,29 +15534,6 @@
       "accountRequired": true,
       "openSource": false,
       "verifiedOn": "2026-09-26",
-      "ownedBySite": false
-    },
-    {
-      "slug": "upagents-lithophane-maker",
-      "name": "UpAgents Lithophane Maker",
-      "url": "https://upagents.app/tools/lithophane-maker",
-      "page": "https://skipthecad.com/generators/upagents-lithophane-maker/",
-      "category": "lithophanes",
-      "secondaryCategories": [
-        "gifts"
-      ],
-      "pricing": "free",
-      "priceNote": "Free, no account, no watermark and no limit. UpAgents' AI agents are paid with credits, but this tool is not one of them.",
-      "platform": [
-        "web"
-      ],
-      "outputs": [
-        "STL"
-      ],
-      "multicolor": false,
-      "accountRequired": false,
-      "openSource": false,
-      "verifiedOn": "2026-10-26",
       "ownedBySite": false
     },
     {
