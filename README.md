@@ -1,6 +1,6 @@
 # No-CAD 3D print generators: open dataset
 
-705 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+706 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
@@ -13,14 +13,14 @@ Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.co
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 527 | 75% |
+| Free | 528 | 75% |
 | Freemium | 131 | 19% |
 | Paid | 47 | 7% |
-| Runs in a browser | 506 | 72% |
-| Exports STL | 623 | 88% |
-| Exports 3MF | 427 | 61% |
+| Runs in a browser | 507 | 72% |
+| Exports STL | 624 | 88% |
+| Exports 3MF | 427 | 60% |
 | Multicolor | 239 | 34% |
-| No account needed | 365 | 52% |
+| No account needed | 366 | 52% |
 | Open source | 123 | 17% |
 
 More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/).
@@ -37,7 +37,7 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 23 |
 | [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 39 |
 | [AI to 3D](https://skipthecad.com/category/ai-3d/) | 55 |
-| [Image to Relief](https://skipthecad.com/category/image-relief/) | 43 |
+| [Image to Relief](https://skipthecad.com/category/image-relief/) | 44 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 19 |
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 39 |
 | [Mechanical Parts](https://skipthecad.com/category/mechanical/) | 107 |
