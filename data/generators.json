@@ -6,8 +6,8 @@
   "attribution": "SkipTheCAD (https://skipthecad.com/)",
   "documentation": "https://skipthecad.com/stats/",
   "repository": "https://github.com/SimplySolid3D/3d-print-generators-dataset",
-  "dateModified": "2026-11-25",
-  "count": 706,
+  "dateModified": "2026-11-27",
+  "count": 708,
   "fields": {
     "slug": "Stable ID, also the last part of the page URL",
     "name": "Tool name",
@@ -5834,6 +5834,32 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-10-10",
+      "ownedBySite": false
+    },
+    {
+      "slug": "imageto3d-com",
+      "name": "imageto3d.com",
+      "url": "https://imageto3d.com/",
+      "page": "https://skipthecad.com/generators/imageto3d-com/",
+      "category": "ai-3d",
+      "secondaryCategories": [],
+      "pricing": "free",
+      "priceNote": "Free, no account; three generations per IP address per day.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "GLB",
+        "STL",
+        "3MF",
+        "OBJ",
+        "FBX",
+        "USDZ"
+      ],
+      "multicolor": false,
+      "accountRequired": false,
+      "openSource": false,
+      "verifiedOn": "2026-11-27",
       "ownedBySite": false
     },
     {
@@ -14084,6 +14110,31 @@
       "accountRequired": false,
       "openSource": false,
       "verifiedOn": "2026-09-25",
+      "ownedBySite": false
+    },
+    {
+      "slug": "stlify-ai",
+      "name": "Stlify AI",
+      "url": "https://stlify.ai/",
+      "page": "https://skipthecad.com/generators/stlify-ai/",
+      "category": "ai-3d",
+      "secondaryCategories": [
+        "gifts"
+      ],
+      "pricing": "paid",
+      "priceNote": "First model and preview free after sign-up; downloads are paid: one model from US$1.99, or packs of 30 credits for $7.99, 100 for $19.99, 300 for $44.99 (10 credits per model). Charged in Turkish lira.",
+      "platform": [
+        "web"
+      ],
+      "outputs": [
+        "STL",
+        "OBJ",
+        "GLB"
+      ],
+      "multicolor": true,
+      "accountRequired": true,
+      "openSource": false,
+      "verifiedOn": "2026-11-26",
       "ownedBySite": false
     },
     {

@@ -1,26 +1,26 @@
 # No-CAD 3D print generators: open dataset
 
-706 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
+708 tools that turn a form, a photo or a line of text into a printable 3D file (STL, 3MF and more)
 without CAD skills: lithophanes, Gridfinity bins, signs, keychains, terrain maps, AI text-to-3D and more.
 Every tool is listed and checked by hand on **[SkipTheCAD](https://skipthecad.com/)**, the directory of
 3D print generators. This repository mirrors that list as open data and is updated every day.
 
 - **JSON:** [`data/generators.json`](data/generators.json) (same file as https://skipthecad.com/generators.json)
 - **CSV:** [`data/generators.csv`](data/generators.csv) (one row per tool, lists joined with `;`)
-- **Last check of any listing:** 2026-11-25
+- **Last check of any listing:** 2026-11-27
 
 ## At a glance
 
 | | Tools | Share |
 | --- | ---: | ---: |
-| Free | 528 | 75% |
+| Free | 529 | 75% |
 | Freemium | 131 | 19% |
-| Paid | 47 | 7% |
-| Runs in a browser | 507 | 72% |
-| Exports STL | 624 | 88% |
-| Exports 3MF | 427 | 60% |
-| Multicolor | 239 | 34% |
-| No account needed | 366 | 52% |
+| Paid | 48 | 7% |
+| Runs in a browser | 509 | 72% |
+| Exports STL | 626 | 88% |
+| Exports 3MF | 428 | 60% |
+| Multicolor | 240 | 34% |
+| No account needed | 367 | 52% |
 | Open source | 123 | 17% |
 
 More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/).
@@ -36,7 +36,7 @@ More numbers per category: [skipthecad.com/stats](https://skipthecad.com/stats/)
 | [Keychains](https://skipthecad.com/category/keychains/) | 31 |
 | [QR & NFC Codes](https://skipthecad.com/category/codes/) | 23 |
 | [Maps & Terrain](https://skipthecad.com/category/maps-terrain/) | 39 |
-| [AI to 3D](https://skipthecad.com/category/ai-3d/) | 55 |
+| [AI to 3D](https://skipthecad.com/category/ai-3d/) | 57 |
 | [Image to Relief](https://skipthecad.com/category/image-relief/) | 44 |
 | [Cookie Cutters](https://skipthecad.com/category/cookie-cutters/) | 19 |
 | [Vases & Lamps](https://skipthecad.com/category/vases-lamps/) | 39 |
